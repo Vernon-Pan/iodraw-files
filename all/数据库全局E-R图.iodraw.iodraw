@@ -271,10 +271,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TQKs1VeCisDZ72aUNzTG-227" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;房间信息(room_info)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-335" y="520" width="115" height="40" as="geometry" />
+          <mxGeometry x="-332.5" y="530" width="115" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TQKs1VeCisDZ72aUNzTG-246" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;管理&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;direction=east;" vertex="1" parent="1">
-          <mxGeometry x="-220" y="389" width="80" height="50" as="geometry" />
+          <mxGeometry x="-230" y="389" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="TQKs1VeCisDZ72aUNzTG-247" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;管理&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;direction=east;" vertex="1" parent="1">
           <mxGeometry x="-60.00000000000003" y="380" width="80" height="50" as="geometry" />
