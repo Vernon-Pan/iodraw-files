@@ -10,7 +10,7 @@
         <mxCell id="sHN7ArNEmg9TA9OJDNDd-2" value="&lt;span style=&quot;font-size:12.0pt;font-family:宋体;&lt;br/&gt;mso-bidi-font-family:宋体;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;&lt;br/&gt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;入住登记&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="220" y="230" width="30" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="sHN7ArNEmg9TA9OJDNDd-3" value="&lt;span style=&quot;font-size:12.0pt;font-family:宋体;&lt;br/&gt;mso-bidi-font-family:宋体;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;&lt;br/&gt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;查看评价&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+        <mxCell id="sHN7ArNEmg9TA9OJDNDd-3" value="&lt;span style=&quot;font-size:12.0pt;font-family:宋体;&lt;br/&gt;mso-bidi-font-family:宋体;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;&lt;br/&gt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;退房结账&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="330" y="230" width="30" height="130" as="geometry" />
         </mxCell>
         <mxCell id="sHN7ArNEmg9TA9OJDNDd-4" value="&lt;span style=&quot;font-size:12.0pt;font-family:宋体;&lt;br/&gt;mso-bidi-font-family:宋体;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;&lt;br/&gt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;查看个人信息&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
@@ -132,6 +132,12 @@
             <mxPoint x="490" y="440" as="sourcePoint" />
             <mxPoint x="540" y="390" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="sHN7ArNEmg9TA9OJDNDd-22" value="&lt;span style=&quot;font-size:12.0pt;font-family:宋体;&lt;br/&gt;mso-bidi-font-family:宋体;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;&lt;br/&gt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;入住登记&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="150" y="230" width="30" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="sHN7ArNEmg9TA9OJDNDd-23" value="&lt;span style=&quot;font-size:12.0pt;font-family:宋体;&lt;br/&gt;mso-bidi-font-family:宋体;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;&lt;br/&gt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;入住登记&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="240" y="250" width="30" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
