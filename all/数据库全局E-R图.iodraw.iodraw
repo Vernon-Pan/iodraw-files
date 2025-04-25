@@ -484,6 +484,9 @@
             <mxPoint x="550" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="TQKs1VeCisDZ72aUNzTG-271" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;房间信息(room_info)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="616.5" width="115" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
