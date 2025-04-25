@@ -65,15 +65,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="APkbsL7w7WC_lt2RIjBF-22" value="&lt;span style=&quot;font-size:12.0pt;font-family:宋体;&lt;br/&gt;mso-bidi-font-family:宋体;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;&lt;br/&gt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;评价&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="330" y="440" width="30" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="APkbsL7w7WC_lt2RIjBF-24" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="APkbsL7w7WC_lt2RIjBF-6">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="350" y="439" as="sourcePoint" />
-            <mxPoint x="400" y="389" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
