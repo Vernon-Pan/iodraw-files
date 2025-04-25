@@ -11,7 +11,7 @@
           <mxGeometry x="220" y="230" width="30" height="130" as="geometry" />
         </mxCell>
         <mxCell id="sHN7ArNEmg9TA9OJDNDd-3" value="&lt;span style=&quot;font-size:12.0pt;font-family:宋体;&lt;br/&gt;mso-bidi-font-family:宋体;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;&lt;br/&gt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;退房结账&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="330" y="230" width="30" height="130" as="geometry" />
+          <mxGeometry x="280" y="230" width="30" height="130" as="geometry" />
         </mxCell>
         <mxCell id="sHN7ArNEmg9TA9OJDNDd-4" value="&lt;span style=&quot;font-size:12.0pt;font-family:宋体;&lt;br/&gt;mso-bidi-font-family:宋体;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;&lt;br/&gt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;查看个人信息&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="460" y="230" width="30" height="130" as="geometry" />
@@ -137,7 +137,7 @@
           <mxGeometry x="160" y="230" width="30" height="130" as="geometry" />
         </mxCell>
         <mxCell id="sHN7ArNEmg9TA9OJDNDd-23" value="&lt;span style=&quot;font-size:12.0pt;font-family:宋体;&lt;br/&gt;mso-bidi-font-family:宋体;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;&lt;br/&gt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;房间类型管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="270" y="230" width="30" height="130" as="geometry" />
+          <mxGeometry x="340" y="230" width="30" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
