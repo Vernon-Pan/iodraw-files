@@ -321,34 +321,10 @@
         <mxCell id="TQKs1VeCisDZ72aUNzTG-227" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;房间信息(room_info)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="606.5" width="115" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TQKs1VeCisDZ72aUNzTG-236" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="TQKs1VeCisDZ72aUNzTG-227">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="155" y="747.31" as="sourcePoint" />
-            <mxPoint x="20" y="797.31" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="TQKs1VeCisDZ72aUNzTG-237" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="TQKs1VeCisDZ72aUNzTG-227">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="165" y="757.3100000000001" as="sourcePoint" />
-            <mxPoint x="70" y="797.31" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="TQKs1VeCisDZ72aUNzTG-238" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="TQKs1VeCisDZ72aUNzTG-227">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="175" y="767.3100000000001" as="sourcePoint" />
-            <mxPoint x="120" y="797.31" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="TQKs1VeCisDZ72aUNzTG-239" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="TQKs1VeCisDZ72aUNzTG-227">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="185" y="777.3100000000001" as="sourcePoint" />
             <mxPoint x="270" y="797.31" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="TQKs1VeCisDZ72aUNzTG-241" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="TQKs1VeCisDZ72aUNzTG-227">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="150" y="737.31" as="sourcePoint" />
-            <mxPoint x="217.5" y="797.31" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TQKs1VeCisDZ72aUNzTG-242" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="TQKs1VeCisDZ72aUNzTG-227">
@@ -361,12 +337,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="367.5" y="797.31" as="sourcePoint" />
             <mxPoint x="164" y="746.31" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="TQKs1VeCisDZ72aUNzTG-245" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="TQKs1VeCisDZ72aUNzTG-227">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="350" y="790.81" as="sourcePoint" />
-            <mxPoint x="-30" y="797.31" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TQKs1VeCisDZ72aUNzTG-246" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;管理&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;direction=east;" vertex="1" parent="1">
