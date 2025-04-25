@@ -396,8 +396,8 @@
             <mxPoint x="130" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TQKs1VeCisDZ72aUNzTG-288" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;处理&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;direction=east;" vertex="1" parent="1">
-          <mxGeometry x="-330" y="340" width="80" height="50" as="geometry" />
+        <mxCell id="TQKs1VeCisDZ72aUNzTG-288" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;绑定&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;direction=east;" vertex="1" parent="1">
+          <mxGeometry x="-515" y="344" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
