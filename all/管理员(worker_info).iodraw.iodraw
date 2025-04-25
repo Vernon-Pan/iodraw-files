@@ -8,7 +8,7 @@
           <mxGeometry x="-170.22" y="250" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Y87BLDNb0jz12kBvAxnN-2" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;角色&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;direction=east;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="70" width="80" height="40" as="geometry" />
+          <mxGeometry x="30" y="130" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Y87BLDNb0jz12kBvAxnN-3" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Y87BLDNb0jz12kBvAxnN-1" target="Y87BLDNb0jz12kBvAxnN-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -17,7 +17,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Y87BLDNb0jz12kBvAxnN-4" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;用户名&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;direction=east;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-470.22" y="180" width="80" height="40" as="geometry" />
+          <mxGeometry x="-380" y="100" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Y87BLDNb0jz12kBvAxnN-5" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;密码&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;direction=east;align=center;" vertex="1" parent="1">
           <mxGeometry x="-360.22" y="205" width="80" height="40" as="geometry" />
@@ -35,7 +35,7 @@
           <mxGeometry x="-360.22" y="414" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Y87BLDNb0jz12kBvAxnN-10" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;地址&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;direction=east;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-360.22" y="460" width="80" height="40" as="geometry" />
+          <mxGeometry x="-60.00000000000003" y="90" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Y87BLDNb0jz12kBvAxnN-11" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Y87BLDNb0jz12kBvAxnN-1" target="Y87BLDNb0jz12kBvAxnN-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
