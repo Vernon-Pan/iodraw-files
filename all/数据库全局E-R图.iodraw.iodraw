@@ -159,7 +159,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TQKs1VeCisDZ72aUNzTG-116" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;rotation=0;" vertex="1" connectable="0" parent="TQKs1VeCisDZ72aUNzTG-115">
+        <mxCell id="TQKs1VeCisDZ72aUNzTG-116" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;rotation=90;" vertex="1" connectable="0" parent="TQKs1VeCisDZ72aUNzTG-115">
           <mxGeometry x="0.0514" y="1" relative="1" as="geometry">
             <mxPoint x="1" y="2" as="offset" />
           </mxGeometry>
@@ -277,7 +277,7 @@
           <mxGeometry x="-250.22" y="384" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="TQKs1VeCisDZ72aUNzTG-247" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;管理&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;direction=east;" vertex="1" parent="1">
-          <mxGeometry x="-60.00000000000003" y="380" width="80" height="50" as="geometry" />
+          <mxGeometry x="-80.00000000000003" y="384" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="TQKs1VeCisDZ72aUNzTG-248" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="TQKs1VeCisDZ72aUNzTG-246" target="TQKs1VeCisDZ72aUNzTG-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
