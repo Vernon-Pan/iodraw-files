@@ -67,7 +67,7 @@
           <mxGeometry x="300" y="520" width="115" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TQKs1VeCisDZ72aUNzTG-50" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;发表&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="505" y="65" width="80" height="50" as="geometry" />
+          <mxGeometry x="415" y="120" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="TQKs1VeCisDZ72aUNzTG-51" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="TQKs1VeCisDZ72aUNzTG-53" target="TQKs1VeCisDZ72aUNzTG-50">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -95,7 +95,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TQKs1VeCisDZ72aUNzTG-72" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;拥有&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="250" y="140" width="50" height="80" as="geometry" />
+          <mxGeometry x="225" y="140" width="50" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TQKs1VeCisDZ72aUNzTG-73" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TQKs1VeCisDZ72aUNzTG-75" target="TQKs1VeCisDZ72aUNzTG-72">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
