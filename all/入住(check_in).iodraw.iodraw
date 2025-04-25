@@ -8,13 +8,13 @@
           <mxGeometry x="-595" y="617" width="115" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mWi_t0FBjfrm8i70DXHw-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;入住人数&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;direction=west;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-760" y="800.0000000000002" width="80" height="40" as="geometry" />
+          <mxGeometry x="-770" y="807.0000000000002" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mWi_t0FBjfrm8i70DXHw-3" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;房间号&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
           <mxGeometry x="-840" y="767.0000000000002" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mWi_t0FBjfrm8i70DXHw-4" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;房间类型&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="-680" y="840.0000000000002" width="80" height="40" as="geometry" />
+          <mxGeometry x="-680" y="847.0000000000002" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mWi_t0FBjfrm8i70DXHw-5" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;入住人&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;direction=west;align=center;" vertex="1" parent="1">
           <mxGeometry x="-577.5" y="860.0000000000002" width="80" height="40" as="geometry" />
@@ -37,7 +37,7 @@
             <mxPoint x="-710" y="747.0000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mWi_t0FBjfrm8i70DXHw-11" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="mWi_t0FBjfrm8i70DXHw-1" target="mWi_t0FBjfrm8i70DXHw-2">
+        <mxCell id="mWi_t0FBjfrm8i70DXHw-11" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="mWi_t0FBjfrm8i70DXHw-1" target="mWi_t0FBjfrm8i70DXHw-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-565" y="707.0000000000002" as="sourcePoint" />
             <mxPoint x="-740" y="767.0000000000002" as="targetPoint" />
