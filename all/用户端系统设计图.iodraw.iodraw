@@ -60,22 +60,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="APkbsL7w7WC_lt2RIjBF-25" value="&lt;span style=&quot;font-size:12.0pt;font-family:宋体;&lt;br/&gt;mso-bidi-font-family:宋体;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;&lt;br/&gt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;编辑个人信息&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="390" y="380" width="30" height="130" as="geometry" />
+          <mxGeometry x="370" y="410" width="30" height="130" as="geometry" />
         </mxCell>
         <mxCell id="APkbsL7w7WC_lt2RIjBF-26" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;修改密码&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="450" y="380" width="30" height="130" as="geometry" />
+          <mxGeometry x="430" y="410" width="30" height="130" as="geometry" />
         </mxCell>
         <mxCell id="APkbsL7w7WC_lt2RIjBF-27" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;修改支付密码&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="510" y="380" width="30" height="130" as="geometry" />
+          <mxGeometry x="490" y="410" width="30" height="130" as="geometry" />
         </mxCell>
         <mxCell id="APkbsL7w7WC_lt2RIjBF-28" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;支付&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="570" y="380" width="30" height="130" as="geometry" />
+          <mxGeometry x="550" y="410" width="30" height="130" as="geometry" />
         </mxCell>
         <mxCell id="APkbsL7w7WC_lt2RIjBF-29" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;余额充值&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="330" y="380" width="30" height="130" as="geometry" />
+          <mxGeometry x="310" y="410" width="30" height="130" as="geometry" />
         </mxCell>
         <mxCell id="APkbsL7w7WC_lt2RIjBF-30" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;填写评价&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="630" y="380" width="30" height="130" as="geometry" />
+          <mxGeometry x="610" y="410" width="30" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
