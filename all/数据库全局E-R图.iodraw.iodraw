@@ -212,7 +212,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TQKs1VeCisDZ72aUNzTG-178" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;账单(bill)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="-480" y="90" width="150" height="40" as="geometry" />
+          <mxGeometry x="-530" y="130" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TQKs1VeCisDZ72aUNzTG-189" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;生成&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
           <mxGeometry x="-340" y="200" width="80" height="50" as="geometry" />
