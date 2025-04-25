@@ -134,7 +134,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TQKs1VeCisDZ72aUNzTG-93" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;房间类型(room_type)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="510" width="115" height="40" as="geometry" />
+          <mxGeometry x="-10" y="520" width="115" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TQKs1VeCisDZ72aUNzTG-112" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="TQKs1VeCisDZ72aUNzTG-90" target="TQKs1VeCisDZ72aUNzTG-29">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
