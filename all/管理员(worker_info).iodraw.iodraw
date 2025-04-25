@@ -17,9 +17,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Y87BLDNb0jz12kBvAxnN-4" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;用户名&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;direction=west;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-70" y="70" width="80" height="40" as="geometry" />
+          <mxGeometry x="10" y="60" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Y87BLDNb0jz12kBvAxnN-5" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;密码&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;direction=east;align=center;" vertex="1" parent="1">
+        <mxCell id="Y87BLDNb0jz12kBvAxnN-5" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;密码&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;direction=west;align=center;" vertex="1" parent="1">
           <mxGeometry x="-280.22" y="120" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Y87BLDNb0jz12kBvAxnN-6" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;姓名&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;direction=east;align=center;" vertex="1" parent="1">
