@@ -322,6 +322,11 @@
             <mxPoint x="230" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="TQKs1VeCisDZ72aUNzTG-308" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;1&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TQKs1VeCisDZ72aUNzTG-252">
+          <mxGeometry x="-0.083" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="TQKs1VeCisDZ72aUNzTG-254" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;关联&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="-140" y="500" width="50" height="80" as="geometry" />
         </mxCell>
