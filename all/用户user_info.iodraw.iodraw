@@ -93,34 +93,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4Q9xemEphqCWlg3PRYYA-21" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;发表&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="1060" y="80" width="80" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="4Q9xemEphqCWlg3PRYYA-22" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="4Q9xemEphqCWlg3PRYYA-21" target="4Q9xemEphqCWlg3PRYYA-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="642" y="160" as="sourcePoint" />
-            <mxPoint x="584" y="250" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="4Q9xemEphqCWlg3PRYYA-23" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;rotation=270;" vertex="1" connectable="0" parent="4Q9xemEphqCWlg3PRYYA-22">
-          <mxGeometry x="0.0514" y="1" relative="1" as="geometry">
-            <mxPoint x="1" y="2" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="4Q9xemEphqCWlg3PRYYA-24" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;拥有&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="860" y="80" width="80" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="4Q9xemEphqCWlg3PRYYA-25" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="4Q9xemEphqCWlg3PRYYA-24" target="4Q9xemEphqCWlg3PRYYA-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="505.5" y="130" as="sourcePoint" />
-            <mxPoint x="449.5" y="220" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="4Q9xemEphqCWlg3PRYYA-26" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;rotation=270;" vertex="1" connectable="0" parent="4Q9xemEphqCWlg3PRYYA-25">
-          <mxGeometry x="0.0514" y="1" relative="1" as="geometry">
-            <mxPoint x="1" y="2" as="offset" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
