@@ -14,10 +14,10 @@
           <mxGeometry x="-120" y="810.0000000000001" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nqyMPppG7s3i3VFo_3K--4" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;房间类型&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="50" y="877.31" width="80" height="40" as="geometry" />
+          <mxGeometry x="40" y="890" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nqyMPppG7s3i3VFo_3K--5" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;房间类型ID&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;direction=west;align=center;" vertex="1" parent="1">
-          <mxGeometry x="140" y="890" width="80" height="40" as="geometry" />
+          <mxGeometry x="140" y="910" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nqyMPppG7s3i3VFo_3K--6" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;房间折扣&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;direction=east;" vertex="1" parent="1">
           <mxGeometry x="240" y="900" width="80" height="40" as="geometry" />
@@ -55,13 +55,10 @@
             <mxPoint x="10" y="837.3100000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nqyMPppG7s3i3VFo_3K--14" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="nqyMPppG7s3i3VFo_3K--1">
+        <mxCell id="nqyMPppG7s3i3VFo_3K--14" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="nqyMPppG7s3i3VFo_3K--1" target="nqyMPppG7s3i3VFo_3K--5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="195" y="787.3100000000001" as="sourcePoint" />
-            <mxPoint x="200" y="880" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="220" y="900" />
-            </Array>
+            <mxPoint x="20" y="847.3100000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nqyMPppG7s3i3VFo_3K--15" value="" style="endArrow=none;html=1;rounded=0;entryX=0.343;entryY=0.07;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="nqyMPppG7s3i3VFo_3K--1" target="nqyMPppG7s3i3VFo_3K--6">
