@@ -112,6 +112,9 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="505.5" y="130" as="sourcePoint" />
             <mxPoint x="449.5" y="220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="450" y="220" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="TQKs1VeCisDZ72aUNzTG-89" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;rotation=270;" vertex="1" connectable="0" parent="TQKs1VeCisDZ72aUNzTG-88">
@@ -232,7 +235,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TQKs1VeCisDZ72aUNzTG-202" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;回复评论(t_comment_reply)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="-193.97" y="-65" width="147.5" height="45" as="geometry" />
+          <mxGeometry x="-417.5" y="20" width="147.5" height="45" as="geometry" />
         </mxCell>
         <mxCell id="TQKs1VeCisDZ72aUNzTG-220" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;回复&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="-145.22" y="65" width="50" height="80" as="geometry" />
