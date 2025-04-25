@@ -165,7 +165,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TQKs1VeCisDZ72aUNzTG-117" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;预订方式(order_type)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="340" width="115" height="40" as="geometry" />
+          <mxGeometry x="210" y="344" width="115" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TQKs1VeCisDZ72aUNzTG-134" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="TQKs1VeCisDZ72aUNzTG-114" target="TQKs1VeCisDZ72aUNzTG-29">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
