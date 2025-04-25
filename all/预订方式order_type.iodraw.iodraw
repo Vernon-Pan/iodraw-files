@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="cnr9X6tVHxU7xqIbP9JZ-1" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;房型ID&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="766.5000000000001" width="40" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="cnr9X6tVHxU7xqIbP9JZ-2" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;预订方式(order_type)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1310" y="550" width="115" height="40" as="geometry" />
         </mxCell>
