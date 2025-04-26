@@ -114,6 +114,9 @@
         <mxCell id="H2jvQE9wgcPiWXuw-Nxy-49" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;更新余额明细&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
           <mxGeometry x="370" y="310" width="110" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="H2jvQE9wgcPiWXuw-Nxy-51" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="620" y="310" width="30" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
