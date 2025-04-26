@@ -19,16 +19,11 @@
         <mxCell id="PWo7f0E4sNLE9X1GmCmb-5" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="285" y="195" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PWo7f0E4sNLE9X1GmCmb-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PWo7f0E4sNLE9X1GmCmb-9">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="690" y="210" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PWo7f0E4sNLE9X1GmCmb-9" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;输入房间号&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
+        <mxCell id="PWo7f0E4sNLE9X1GmCmb-9" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;显示操作员信息&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
           <mxGeometry x="520" y="190" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PWo7f0E4sNLE9X1GmCmb-37" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;输入房间号&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
-          <mxGeometry x="530" y="200" width="110" height="40" as="geometry" />
+          <mxGeometry x="700" y="40" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
