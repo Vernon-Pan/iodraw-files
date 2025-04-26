@@ -160,8 +160,8 @@
         </mxCell>
         <mxCell id="P0SGHabeI43tgDxfInF3-87" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="260" y="1020" as="sourcePoint" />
-            <mxPoint x="430" y="1020" as="targetPoint" />
+            <mxPoint x="260" y="920" as="sourcePoint" />
+            <mxPoint x="430" y="920" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="P0SGHabeI43tgDxfInF3-88" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;点击查看评论按钮&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
