@@ -112,11 +112,20 @@
         <mxCell id="U29VC_uSn6H73br2e2OY-48" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;执行扣除&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
           <mxGeometry x="640" y="434" width="110" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="U29VC_uSn6H73br2e2OY-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U29VC_uSn6H73br2e2OY-50" target="U29VC_uSn6H73br2e2OY-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="U29VC_uSn6H73br2e2OY-50" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;显示扣款结果&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
           <mxGeometry x="770" y="434" width="110" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="U29VC_uSn6H73br2e2OY-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U29VC_uSn6H73br2e2OY-52" target="U29VC_uSn6H73br2e2OY-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="U29VC_uSn6H73br2e2OY-52" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;确认退房&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
-          <mxGeometry x="750" y="530" width="110" height="40" as="geometry" />
+          <mxGeometry x="770" y="530" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="U29VC_uSn6H73br2e2OY-56" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;确认退房&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
+          <mxGeometry x="960" y="530" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
