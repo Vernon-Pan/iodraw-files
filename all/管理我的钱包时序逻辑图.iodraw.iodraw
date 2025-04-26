@@ -250,11 +250,14 @@
             <mxPoint x="420" y="1400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="P0SGHabeI43tgDxfInF3-117" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=-5;entryPerimeter=0;" edge="1" parent="1" target="P0SGHabeI43tgDxfInF3-53">
+        <mxCell id="P0SGHabeI43tgDxfInF3-117" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=-5;entryPerimeter=0;" edge="1" parent="1" source="P0SGHabeI43tgDxfInF3-118" target="P0SGHabeI43tgDxfInF3-53">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="620" y="1580" as="sourcePoint" />
+            <mxPoint x="620" y="1430" as="sourcePoint" />
             <mxPoint x="650" y="1400" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="P0SGHabeI43tgDxfInF3-118" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="615" y="1390" width="10" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
