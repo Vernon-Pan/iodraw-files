@@ -81,8 +81,8 @@
         </mxCell>
         <mxCell id="P0SGHabeI43tgDxfInF3-69" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;返回订单列表&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="855" y="550" as="sourcePoint" />
-            <mxPoint x="615" y="550" as="targetPoint" />
+            <mxPoint x="860" y="620" as="sourcePoint" />
+            <mxPoint x="620" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="P0SGHabeI43tgDxfInF3-70" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
