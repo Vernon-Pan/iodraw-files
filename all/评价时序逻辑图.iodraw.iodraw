@@ -127,21 +127,6 @@
         <mxCell id="AY0sDBk7qBAhj82zwfmy-41" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;请求评价状态&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="610" y="748" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AY0sDBk7qBAhj82zwfmy-42" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;返回支付窗口&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="730" y="800" as="sourcePoint" />
-            <mxPoint x="440" y="800" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="AY0sDBk7qBAhj82zwfmy-43" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1" target="AY0sDBk7qBAhj82zwfmy-9">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="260" y="843" as="sourcePoint" />
-            <mxPoint x="725" y="842.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="AY0sDBk7qBAhj82zwfmy-44" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;输入支付密码&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="460" y="820" width="120" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="AY0sDBk7qBAhj82zwfmy-45" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;验证支付结果&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" source="AY0sDBk7qBAhj82zwfmy-9">
           <mxGeometry x="-0.0909" relative="1" as="geometry">
             <mxPoint x="700" y="880" as="sourcePoint" />
