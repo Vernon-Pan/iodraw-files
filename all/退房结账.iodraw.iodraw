@@ -64,6 +64,9 @@
         <mxCell id="PWo7f0E4sNLE9X1GmCmb-45" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;输入用户名/密码/个人信息&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
           <mxGeometry x="810" y="195" width="110" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="PWo7f0E4sNLE9X1GmCmb-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PWo7f0E4sNLE9X1GmCmb-47" target="PWo7f0E4sNLE9X1GmCmb-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PWo7f0E4sNLE9X1GmCmb-47" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;提交&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
           <mxGeometry x="970" y="195" width="110" height="40" as="geometry" />
         </mxCell>
@@ -87,6 +90,9 @@
         </mxCell>
         <mxCell id="PWo7f0E4sNLE9X1GmCmb-60" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;刷新&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
           <mxGeometry x="1020" y="290" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PWo7f0E4sNLE9X1GmCmb-63" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="360" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
