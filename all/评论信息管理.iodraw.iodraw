@@ -36,6 +36,9 @@
         <mxCell id="-280MmASgq-nDinSC5Cw-9" value="&lt;span style=&quot;font-size:12.0pt;font-family:宋体;&lt;br/&gt;mso-bidi-font-family:宋体;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;&lt;br/&gt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;房型/评分/状态/时间范围/用户名组合筛选&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
           <mxGeometry x="360" y="310" width="150" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="-280MmASgq-nDinSC5Cw-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-280MmASgq-nDinSC5Cw-28" target="-280MmASgq-nDinSC5Cw-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-280MmASgq-nDinSC5Cw-28" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;批量操作&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
           <mxGeometry x="560" y="320" width="110" height="40" as="geometry" />
         </mxCell>
@@ -58,7 +61,7 @@
           <mxGeometry x="560" y="380" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-280MmASgq-nDinSC5Cw-38" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;选择多条评论&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
-          <mxGeometry x="560" y="500" width="110" height="40" as="geometry" />
+          <mxGeometry x="475" y="470" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
