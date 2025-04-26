@@ -22,7 +22,7 @@
         <mxCell id="Q1TwuoBVbDCJtwSQ9-6y-5" value="&lt;span style=&quot;font-size:12.0pt;font-family:宋体;&lt;br/&gt;mso-bidi-font-family:宋体;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;&lt;br/&gt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;查看个人信息&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="390" width="80" height="38.5" as="geometry" />
         </mxCell>
-        <mxCell id="Q1TwuoBVbDCJtwSQ9-6y-6" value="&lt;span style=&quot;font-size:12.0pt;font-family:宋体;&lt;br/&gt;mso-bidi-font-family:宋体;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;&lt;br/&gt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;用户点评&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Q1TwuoBVbDCJtwSQ9-6y-6" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;查看评论&lt;/span&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="320" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Q1TwuoBVbDCJtwSQ9-6y-9" value="&lt;span style=&quot;font-size:12.0pt;font-family:宋体;&lt;br/&gt;mso-bidi-font-family:宋体;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;&lt;br/&gt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;查看订单&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -65,7 +65,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Q1TwuoBVbDCJtwSQ9-6y-20" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;付款&lt;/span&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="950" y="210" width="70" height="30" as="geometry" />
+          <mxGeometry x="950" y="260" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Q1TwuoBVbDCJtwSQ9-6y-21" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;查看余额明细&lt;/span&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1020" y="310" width="90" height="40" as="geometry" />
@@ -77,7 +77,7 @@
           <mxGeometry x="840" y="520" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Q1TwuoBVbDCJtwSQ9-6y-25" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;修改支付密码&lt;/span&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="920" y="480" width="90" height="40" as="geometry" />
+          <mxGeometry x="900" y="468.5" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Q1TwuoBVbDCJtwSQ9-6y-26" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;管理我的钱包&lt;/span&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="900" y="394" width="90" height="40" as="geometry" />
@@ -115,7 +115,7 @@
         <mxCell id="Q1TwuoBVbDCJtwSQ9-6y-32" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;充值&lt;/span&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1079" y="428.5" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Q1TwuoBVbDCJtwSQ9-6y-33" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="Q1TwuoBVbDCJtwSQ9-6y-21">
+        <mxCell id="Q1TwuoBVbDCJtwSQ9-6y-33" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.991;exitY=0.32;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Q1TwuoBVbDCJtwSQ9-6y-26" target="Q1TwuoBVbDCJtwSQ9-6y-21">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="920" y="380" as="sourcePoint" />
             <mxPoint x="970" y="330" as="targetPoint" />
