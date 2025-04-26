@@ -298,6 +298,12 @@
         <mxCell id="P0SGHabeI43tgDxfInF3-126" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;主动查询最新余额&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="449.5" y="1510" width="150" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="P0SGHabeI43tgDxfInF3-127" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;返回最新数据&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" source="P0SGHabeI43tgDxfInF3-118">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="1570" as="sourcePoint" />
+            <mxPoint x="440" y="1570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
