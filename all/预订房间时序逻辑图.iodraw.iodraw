@@ -99,8 +99,11 @@
         <mxCell id="e1pMPYoYYU5mIjO0hJO8-28" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;选择房型，点击预定&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="265" y="445" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="e1pMPYoYYU5mIjO0hJO8-29" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;选择房型，点击预定&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="265" y="310" width="170" height="30" as="geometry" />
+        <mxCell id="e1pMPYoYYU5mIjO0hJO8-30" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="270" y="490" as="sourcePoint" />
+            <mxPoint x="430" y="490" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
