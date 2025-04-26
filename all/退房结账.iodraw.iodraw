@@ -34,7 +34,7 @@
         <mxCell id="U29VC_uSn6H73br2e2OY-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U29VC_uSn6H73br2e2OY-11" target="U29VC_uSn6H73br2e2OY-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="U29VC_uSn6H73br2e2OY-11" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;显示订单列表&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
+        <mxCell id="U29VC_uSn6H73br2e2OY-11" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;显示入住详情&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
           <mxGeometry x="440" y="310" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="U29VC_uSn6H73br2e2OY-12" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
