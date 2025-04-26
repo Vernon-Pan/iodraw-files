@@ -78,6 +78,15 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="e1pMPYoYYU5mIjO0hJO8-23" value="&lt;span style=&quot;font-size: 16px; background-color: rgb(251, 251, 251);&quot;&gt;显示酒店客房页&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="260" as="sourcePoint" />
+            <mxPoint x="270" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="370" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
