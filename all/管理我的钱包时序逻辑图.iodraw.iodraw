@@ -29,7 +29,7 @@
           <mxGeometry x="610" y="520" width="10" height="640" as="geometry" />
         </mxCell>
         <mxCell id="P0SGHabeI43tgDxfInF3-54" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="750" y="1020" width="10" height="380" as="geometry" />
+          <mxGeometry x="750" y="1020" width="10" height="390" as="geometry" />
         </mxCell>
         <mxCell id="P0SGHabeI43tgDxfInF3-55" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="890" y="430" width="10" height="1160" as="geometry" />
@@ -302,7 +302,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="P0SGHabeI43tgDxfInF3-122" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;更新用户余额、创建充值记录&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="640" y="1400" width="230" height="30" as="geometry" />
+          <mxGeometry x="640" y="1410" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P0SGHabeI43tgDxfInF3-130" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="750" y="1480" width="10" height="110" as="geometry" />
