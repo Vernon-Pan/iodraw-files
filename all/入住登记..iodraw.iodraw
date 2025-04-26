@@ -31,6 +31,9 @@
         <mxCell id="q9F87xCSlOOMbdpChqxH-12" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;输入手机号、姓名&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
           <mxGeometry x="520" y="190" width="110" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="q9F87xCSlOOMbdpChqxH-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q9F87xCSlOOMbdpChqxH-14" target="q9F87xCSlOOMbdpChqxH-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="q9F87xCSlOOMbdpChqxH-14" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;显示订单列表&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
           <mxGeometry x="440" y="310" width="110" height="40" as="geometry" />
         </mxCell>
@@ -57,7 +60,10 @@
           <mxGeometry x="705" y="290" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="q9F87xCSlOOMbdpChqxH-40" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;未找到订单&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
-          <mxGeometry x="840" y="310" width="110" height="40" as="geometry" />
+          <mxGeometry x="860" y="310" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q9F87xCSlOOMbdpChqxH-44" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;显示订单列表&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
+          <mxGeometry x="250" y="310" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
