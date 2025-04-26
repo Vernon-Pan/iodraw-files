@@ -72,10 +72,10 @@
         </mxCell>
         <mxCell id="e1pMPYoYYU5mIjO0hJO8-21" value="&lt;span style=&quot;font-size: 16px; background-color: rgb(251, 251, 251);&quot;&gt;显示酒店客房页&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry x="-1" y="212" relative="1" as="geometry">
-            <mxPoint x="440" y="260" as="sourcePoint" />
-            <mxPoint x="270" y="260" as="targetPoint" />
+            <mxPoint x="740" y="310" as="sourcePoint" />
+            <mxPoint x="570" y="310" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="370" y="260" />
+              <mxPoint x="670" y="310" />
             </Array>
             <mxPoint x="210" y="-182" as="offset" />
           </mxGeometry>
