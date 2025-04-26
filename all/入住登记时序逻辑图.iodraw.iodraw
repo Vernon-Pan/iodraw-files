@@ -340,7 +340,7 @@
         <mxCell id="9N2ny8L-kPAaRB6rVlP5-73" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;房型不可用&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="509.5" y="830" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9N2ny8L-kPAaRB6rVlP5-74" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="9N2ny8L-kPAaRB6rVlP5-74" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;返回替代房型建议&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" source="9N2ny8L-kPAaRB6rVlP5-8">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="520" y="910" as="sourcePoint" />
             <mxPoint x="440" y="910" as="targetPoint" />
