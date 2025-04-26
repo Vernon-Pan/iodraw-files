@@ -31,11 +31,14 @@
         <mxCell id="q9F87xCSlOOMbdpChqxH-12" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;输入手机号、姓名&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
           <mxGeometry x="520" y="190" width="110" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="q9F87xCSlOOMbdpChqxH-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="q9F87xCSlOOMbdpChqxH-14" target="q9F87xCSlOOMbdpChqxH-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="q9F87xCSlOOMbdpChqxH-14" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;未找到订单&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
           <mxGeometry x="510" y="310" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="q9F87xCSlOOMbdpChqxH-30" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="245" y="310" width="30" height="30" as="geometry" />
+          <mxGeometry x="245" y="315" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="q9F87xCSlOOMbdpChqxH-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q9F87xCSlOOMbdpChqxH-34" target="q9F87xCSlOOMbdpChqxH-14">
           <mxGeometry relative="1" as="geometry" />
