@@ -70,11 +70,14 @@
             <mxPoint x="260" y="860" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9N2ny8L-kPAaRB6rVlP5-18" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="9N2ny8L-kPAaRB6rVlP5-18" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1" target="9N2ny8L-kPAaRB6rVlP5-10">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="620" y="580" as="sourcePoint" />
             <mxPoint x="860" y="580" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="9N2ny8L-kPAaRB6rVlP5-19" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;执行模糊匹配查询&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="665" y="550" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9N2ny8L-kPAaRB6rVlP5-20" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;返回余额数值&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -112,7 +115,7 @@
             <mxPoint x="615" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9N2ny8L-kPAaRB6rVlP5-27" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.56;exitY=-0.007;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="9N2ny8L-kPAaRB6rVlP5-19">
+        <mxCell id="9N2ny8L-kPAaRB6rVlP5-27" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.56;exitY=-0.007;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="9N2ny8L-kPAaRB6rVlP5-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="710" y="380" as="sourcePoint" />
             <mxPoint x="756" y="440" as="targetPoint" />
@@ -318,15 +321,6 @@
         </mxCell>
         <mxCell id="9N2ny8L-kPAaRB6rVlP5-68" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;输入姓名/手机号&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="285" y="520" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="9N2ny8L-kPAaRB6rVlP5-69" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.56;exitY=-0.007;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="9N2ny8L-kPAaRB6rVlP5-9" target="9N2ny8L-kPAaRB6rVlP5-19">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="756" y="1017" as="sourcePoint" />
-            <mxPoint x="756" y="440" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9N2ny8L-kPAaRB6rVlP5-19" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;查询用户余额&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="690" y="550" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
