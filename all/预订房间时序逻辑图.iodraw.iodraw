@@ -89,8 +89,8 @@
         </mxCell>
         <mxCell id="e1pMPYoYYU5mIjO0hJO8-26" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="270" y="410" as="sourcePoint" />
-            <mxPoint x="430" y="410" as="targetPoint" />
+            <mxPoint x="270" y="430" as="sourcePoint" />
+            <mxPoint x="420" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="e1pMPYoYYU5mIjO0hJO8-27" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;输入入住人信息，&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;选择时间&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
