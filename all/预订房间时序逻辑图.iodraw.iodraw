@@ -52,14 +52,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="e1pMPYoYYU5mIjO0hJO8-15" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="e1pMPYoYYU5mIjO0hJO8-15" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1" source="e1pMPYoYYU5mIjO0hJO8-16">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="270" y="330" as="sourcePoint" />
             <mxPoint x="430" y="330" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="e1pMPYoYYU5mIjO0hJO8-16" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;选择房型，点击预定&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="255" y="300" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="e1pMPYoYYU5mIjO0hJO8-18" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1" target="e1pMPYoYYU5mIjO0hJO8-11">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -86,6 +83,15 @@
               <mxPoint x="360" y="360" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="e1pMPYoYYU5mIjO0hJO8-24" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1" target="e1pMPYoYYU5mIjO0hJO8-16">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="270" y="330" as="sourcePoint" />
+            <mxPoint x="430" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e1pMPYoYYU5mIjO0hJO8-16" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;选择房型，点击预定&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="255" y="300" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
