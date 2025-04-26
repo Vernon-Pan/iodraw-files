@@ -31,7 +31,7 @@
         <mxCell id="-280MmASgq-nDinSC5Cw-29" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;初始化评论列表&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
           <mxGeometry x="670" y="210" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-280MmASgq-nDinSC5Cw-30" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;初始化评论列表&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
+        <mxCell id="-280MmASgq-nDinSC5Cw-30" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;模板管理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
           <mxGeometry x="650" y="90" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-280MmASgq-nDinSC5Cw-32" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.073;entryY=0.92;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-280MmASgq-nDinSC5Cw-5" target="-280MmASgq-nDinSC5Cw-30">
