@@ -52,7 +52,7 @@
             <mxPoint x="620" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PWo7f0E4sNLE9X1GmCmb-45" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;添加&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
+        <mxCell id="PWo7f0E4sNLE9X1GmCmb-45" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;输入用户名/密码/个人信息&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
           <mxGeometry x="840" y="195" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
