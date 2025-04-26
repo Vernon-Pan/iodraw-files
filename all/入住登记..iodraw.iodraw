@@ -72,7 +72,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="q9F87xCSlOOMbdpChqxH-46" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;系统推荐房间&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
-          <mxGeometry x="290" y="430" width="110" height="40" as="geometry" />
+          <mxGeometry x="280" y="390" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="q9F87xCSlOOMbdpChqxH-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q9F87xCSlOOMbdpChqxH-50">
           <mxGeometry relative="1" as="geometry">
@@ -80,7 +80,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="q9F87xCSlOOMbdpChqxH-50" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;预订房型可用性&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="455" y="410" width="80" height="80" as="geometry" />
+          <mxGeometry x="305" y="510" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
