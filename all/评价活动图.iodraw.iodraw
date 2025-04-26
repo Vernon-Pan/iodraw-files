@@ -104,7 +104,7 @@
           <mxGeometry x="320" y="260" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IeCUnq5MaQmrZLW1ni2W-43" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;已入住订单&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
-          <mxGeometry x="900" y="300" width="110" height="40" as="geometry" />
+          <mxGeometry x="780" y="255" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
