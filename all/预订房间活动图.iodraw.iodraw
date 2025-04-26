@@ -56,8 +56,14 @@
         <mxCell id="6MwM80KFG0n85IdUljnB-14" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;点击提交&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
           <mxGeometry x="780" y="390" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6MwM80KFG0n85IdUljnB-16" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;点击提交&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
+        <mxCell id="6MwM80KFG0n85IdUljnB-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6MwM80KFG0n85IdUljnB-16" target="6MwM80KFG0n85IdUljnB-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MwM80KFG0n85IdUljnB-16" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;我的订单&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
           <mxGeometry x="780" y="500" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6MwM80KFG0n85IdUljnB-18" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;我的订单&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
+          <mxGeometry x="590" y="500" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
