@@ -31,11 +31,6 @@
         <mxCell id="IeCUnq5MaQmrZLW1ni2W-17" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;输入密码&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
           <mxGeometry x="490" y="520" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IeCUnq5MaQmrZLW1ni2W-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IeCUnq5MaQmrZLW1ni2W-20" target="IeCUnq5MaQmrZLW1ni2W-15">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="460" y="520" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="IeCUnq5MaQmrZLW1ni2W-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IeCUnq5MaQmrZLW1ni2W-20" target="IeCUnq5MaQmrZLW1ni2W-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -95,6 +90,9 @@
         </mxCell>
         <mxCell id="IeCUnq5MaQmrZLW1ni2W-39" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="320" y="260" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IeCUnq5MaQmrZLW1ni2W-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IeCUnq5MaQmrZLW1ni2W-43" target="IeCUnq5MaQmrZLW1ni2W-20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IeCUnq5MaQmrZLW1ni2W-43" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;已入住订单&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
           <mxGeometry x="780" y="255" width="110" height="40" as="geometry" />
