@@ -13,11 +13,11 @@
         <mxCell id="U29VC_uSn6H73br2e2OY-3" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;点击退房结账&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
           <mxGeometry x="350" y="190" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="U29VC_uSn6H73br2e2OY-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U29VC_uSn6H73br2e2OY-5" target="U29VC_uSn6H73br2e2OY-3">
+        <mxCell id="U29VC_uSn6H73br2e2OY-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U29VC_uSn6H73br2e2OY-5" target="U29VC_uSn6H73br2e2OY-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="U29VC_uSn6H73br2e2OY-5" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="285" y="200" width="30" height="30" as="geometry" />
+          <mxGeometry x="285" y="195" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="U29VC_uSn6H73br2e2OY-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U29VC_uSn6H73br2e2OY-7" target="U29VC_uSn6H73br2e2OY-17">
           <mxGeometry relative="1" as="geometry" />
