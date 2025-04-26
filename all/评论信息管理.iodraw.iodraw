@@ -16,7 +16,7 @@
         <mxCell id="-280MmASgq-nDinSC5Cw-4" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="285" y="195" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-280MmASgq-nDinSC5Cw-5" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;显示操作员信息&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
+        <mxCell id="-280MmASgq-nDinSC5Cw-5" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;初始化评论列表&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
           <mxGeometry x="500" y="190" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-280MmASgq-nDinSC5Cw-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-280MmASgq-nDinSC5Cw-7" target="-280MmASgq-nDinSC5Cw-20">
