@@ -109,8 +109,8 @@
         <mxCell id="U29VC_uSn6H73br2e2OY-48" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;执行扣除&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
           <mxGeometry x="660" y="434" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="U29VC_uSn6H73br2e2OY-50" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;执行扣除&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
-          <mxGeometry x="850" y="434" width="110" height="40" as="geometry" />
+        <mxCell id="U29VC_uSn6H73br2e2OY-50" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;显示扣款结果&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
+          <mxGeometry x="790" y="434" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
