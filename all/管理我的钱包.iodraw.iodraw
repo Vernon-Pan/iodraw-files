@@ -18,7 +18,7 @@
             <mxPoint x="350" y="560" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="H2jvQE9wgcPiWXuw-Nxy-7" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;订单详情&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
+        <mxCell id="H2jvQE9wgcPiWXuw-Nxy-7" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;余额明细&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
           <mxGeometry x="680" y="350" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="H2jvQE9wgcPiWXuw-Nxy-8" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
