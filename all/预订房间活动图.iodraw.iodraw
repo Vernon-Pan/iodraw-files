@@ -84,7 +84,7 @@
         <mxCell id="6MwM80KFG0n85IdUljnB-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6MwM80KFG0n85IdUljnB-30" target="6MwM80KFG0n85IdUljnB-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6MwM80KFG0n85IdUljnB-49" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6MwM80KFG0n85IdUljnB-48">
+        <mxCell id="6MwM80KFG0n85IdUljnB-49" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;YY&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6MwM80KFG0n85IdUljnB-48">
           <mxGeometry x="-0.1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
