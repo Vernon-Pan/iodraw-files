@@ -352,6 +352,9 @@
             <mxPoint x="890" y="1230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="9N2ny8L-kPAaRB6rVlP5-77" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;更新订单状态&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="765" y="1200" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
