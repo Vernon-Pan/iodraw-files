@@ -257,7 +257,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="P0SGHabeI43tgDxfInF3-118" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="610" y="1400" width="10" height="190" as="geometry" />
+          <mxGeometry x="610" y="1420" width="10" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="P0SGHabeI43tgDxfInF3-119" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;创建充值订单&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="550" y="1251" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
