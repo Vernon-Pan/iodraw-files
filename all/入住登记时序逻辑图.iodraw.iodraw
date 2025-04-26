@@ -292,9 +292,6 @@
             <mxPoint x="770" y="1520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9N2ny8L-kPAaRB6rVlP5-64" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;更新用户余额、创建充值记录&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="790" y="1510" width="230" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="9N2ny8L-kPAaRB6rVlP5-65" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="750" y="1480" width="10" height="110" as="geometry" />
         </mxCell>
@@ -351,6 +348,12 @@
         </mxCell>
         <mxCell id="9N2ny8L-kPAaRB6rVlP5-77" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;更新订单状态&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="765" y="1200" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9N2ny8L-kPAaRB6rVlP5-78" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="1470" as="sourcePoint" />
+            <mxPoint x="470" y="1420" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
