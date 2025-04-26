@@ -204,6 +204,9 @@
         <mxCell id="-280MmASgq-nDinSC5Cw-89" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;提交回复&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
           <mxGeometry x="1130" y="-30" width="110" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="-280MmASgq-nDinSC5Cw-92" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;提交回复&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="-20" width="110" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
