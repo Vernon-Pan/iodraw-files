@@ -7,14 +7,6 @@
         <mxCell id="IeCUnq5MaQmrZLW1ni2W-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;登录&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="220" y="300" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IeCUnq5MaQmrZLW1ni2W-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="IeCUnq5MaQmrZLW1ni2W-11">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="865" y="310" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="IeCUnq5MaQmrZLW1ni2W-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IeCUnq5MaQmrZLW1ni2W-11" target="IeCUnq5MaQmrZLW1ni2W-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="IeCUnq5MaQmrZLW1ni2W-11" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;我的订单&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
           <mxGeometry x="400" y="260" width="110" height="40" as="geometry" />
         </mxCell>
