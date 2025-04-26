@@ -120,6 +120,12 @@
         <mxCell id="e1pMPYoYYU5mIjO0hJO8-33" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;点击未付款订单&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="270" y="620" width="140" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="e1pMPYoYYU5mIjO0hJO8-34" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;跳转至我的订单&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="580" as="sourcePoint" />
+            <mxPoint x="270" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
