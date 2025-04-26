@@ -71,7 +71,7 @@
           <mxGeometry x="600" y="230" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="e1pMPYoYYU5mIjO0hJO8-21" value="&lt;span style=&quot;font-size: 16px; background-color: rgb(251, 251, 251);&quot;&gt;显示酒店客房页&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
-          <mxGeometry x="-0.0588" y="-20" relative="1" as="geometry">
+          <mxGeometry x="-0.0588" y="-10" relative="1" as="geometry">
             <mxPoint x="740" y="320" as="sourcePoint" />
             <mxPoint x="570" y="320" as="targetPoint" />
             <Array as="points">
