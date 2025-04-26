@@ -28,6 +28,9 @@
         <mxCell id="q9F87xCSlOOMbdpChqxH-9" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;微信支付&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
           <mxGeometry x="380" y="430" width="110" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="q9F87xCSlOOMbdpChqxH-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q9F87xCSlOOMbdpChqxH-10" target="q9F87xCSlOOMbdpChqxH-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="q9F87xCSlOOMbdpChqxH-10" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;查询&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
           <mxGeometry x="690" y="190" width="110" height="40" as="geometry" />
         </mxCell>
@@ -117,6 +120,9 @@
               <mxPoint x="575" y="280" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="q9F87xCSlOOMbdpChqxH-34" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=34;" vertex="1" parent="1">
+          <mxGeometry x="705" y="290" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
