@@ -277,6 +277,18 @@
         <mxCell id="P0SGHabeI43tgDxfInF3-122" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;更新用户余额、创建充值记录&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="645" y="1400" width="230" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="P0SGHabeI43tgDxfInF3-123" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;返回操作结果&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" source="P0SGHabeI43tgDxfInF3-55">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700" y="1470" as="sourcePoint" />
+            <mxPoint x="620" y="1470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P0SGHabeI43tgDxfInF3-124" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="1510" as="sourcePoint" />
+            <mxPoint x="440" y="1510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
