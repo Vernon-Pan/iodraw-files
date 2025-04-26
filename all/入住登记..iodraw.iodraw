@@ -124,8 +124,8 @@
         <mxCell id="q9F87xCSlOOMbdpChqxH-64" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;输入入住人数&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
           <mxGeometry x="630" y="470" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="q9F87xCSlOOMbdpChqxH-66" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;输入入住人数&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
-          <mxGeometry x="820" y="470" width="110" height="40" as="geometry" />
+        <mxCell id="q9F87xCSlOOMbdpChqxH-66" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;办理入住&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
+          <mxGeometry x="785" y="470" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
