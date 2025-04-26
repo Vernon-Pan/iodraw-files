@@ -27,24 +27,10 @@
         <mxCell id="-280MmASgq-nDinSC5Cw-9" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;添加&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
           <mxGeometry x="630" y="60" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-280MmASgq-nDinSC5Cw-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-280MmASgq-nDinSC5Cw-11">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="885" y="330" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-280MmASgq-nDinSC5Cw-11" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;删除&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
-          <mxGeometry x="585" y="394" width="110" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="-280MmASgq-nDinSC5Cw-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-280MmASgq-nDinSC5Cw-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="610" y="250" as="sourcePoint" />
             <mxPoint x="650" y="210" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-280MmASgq-nDinSC5Cw-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-280MmASgq-nDinSC5Cw-5" target="-280MmASgq-nDinSC5Cw-11">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="570" y="340" as="sourcePoint" />
-            <mxPoint x="620" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
