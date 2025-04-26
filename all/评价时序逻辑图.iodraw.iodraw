@@ -34,29 +34,11 @@
         <mxCell id="AY0sDBk7qBAhj82zwfmy-10" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="860" y="160" width="10" height="820" as="geometry" />
         </mxCell>
-        <mxCell id="AY0sDBk7qBAhj82zwfmy-11" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="270" y="200" as="sourcePoint" />
-            <mxPoint x="430" y="200" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="AY0sDBk7qBAhj82zwfmy-13" value="&lt;span style=&quot;font-size: 16px; background-color: rgb(251, 251, 251);&quot;&gt;显示酒店客房页&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" source="AY0sDBk7qBAhj82zwfmy-3" target="AY0sDBk7qBAhj82zwfmy-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="390" y="250" as="sourcePoint" />
-            <mxPoint x="270" y="250" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="360" y="250" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="AY0sDBk7qBAhj82zwfmy-14" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="270" y="330" as="sourcePoint" />
             <mxPoint x="430" y="330" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="AY0sDBk7qBAhj82zwfmy-15" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;选择房型，点击预定&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="255" y="300" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AY0sDBk7qBAhj82zwfmy-16" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1" target="AY0sDBk7qBAhj82zwfmy-10">
           <mxGeometry width="160" relative="1" as="geometry">
