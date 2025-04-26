@@ -62,6 +62,9 @@
         <mxCell id="IeCUnq5MaQmrZLW1ni2W-51" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;查看评价&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
           <mxGeometry x="615" y="340" width="110" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="IeCUnq5MaQmrZLW1ni2W-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IeCUnq5MaQmrZLW1ni2W-52" target="IeCUnq5MaQmrZLW1ni2W-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="IeCUnq5MaQmrZLW1ni2W-52" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;撰写评价&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
           <mxGeometry x="615" y="570" width="110" height="40" as="geometry" />
         </mxCell>
