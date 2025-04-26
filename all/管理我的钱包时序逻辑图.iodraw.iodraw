@@ -295,8 +295,8 @@
             <mxPoint x="600" y="1540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="P0SGHabeI43tgDxfInF3-126" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;扫码完成支付&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="464.5" y="1510" width="120" height="30" as="geometry" />
+        <mxCell id="P0SGHabeI43tgDxfInF3-126" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;主动查询最新余额&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="449.5" y="1510" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
