@@ -26,13 +26,19 @@
           <mxGeometry x="360" y="300" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-280MmASgq-nDinSC5Cw-28" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;初始化评论列表&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
-          <mxGeometry x="650" y="374" width="110" height="40" as="geometry" />
+          <mxGeometry x="620" y="320" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-280MmASgq-nDinSC5Cw-29" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;初始化评论列表&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
-          <mxGeometry x="640" y="280" width="110" height="40" as="geometry" />
+          <mxGeometry x="670" y="210" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-280MmASgq-nDinSC5Cw-30" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;初始化评论列表&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
-          <mxGeometry x="660" y="90" width="110" height="40" as="geometry" />
+          <mxGeometry x="650" y="90" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-280MmASgq-nDinSC5Cw-32" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="320" as="sourcePoint" />
+            <mxPoint x="810" y="270" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
