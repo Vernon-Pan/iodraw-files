@@ -32,7 +32,7 @@
           <mxGeometry x="750" y="1020" width="10" height="420" as="geometry" />
         </mxCell>
         <mxCell id="9N2ny8L-kPAaRB6rVlP5-10" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="890" y="430" width="10" height="1160" as="geometry" />
+          <mxGeometry x="890" y="430" width="10" height="1010" as="geometry" />
         </mxCell>
         <mxCell id="9N2ny8L-kPAaRB6rVlP5-11" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;点击首页入住登记&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="275" y="445" width="150" height="30" as="geometry" />
@@ -240,7 +240,7 @@
         </mxCell>
         <mxCell id="9N2ny8L-kPAaRB6rVlP5-54" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=-5;entryPerimeter=0;" edge="1" parent="1" target="9N2ny8L-kPAaRB6rVlP5-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="620" y="1420" as="sourcePoint" />
+            <mxPoint x="620" y="1440" as="sourcePoint" />
             <mxPoint x="650" y="1400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
