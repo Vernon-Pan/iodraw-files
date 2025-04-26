@@ -25,17 +25,6 @@
         <mxCell id="IeCUnq5MaQmrZLW1ni2W-20" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;订单详情&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
           <mxGeometry x="780" y="450" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IeCUnq5MaQmrZLW1ni2W-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="IeCUnq5MaQmrZLW1ni2W-38">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="450" y="380" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="IeCUnq5MaQmrZLW1ni2W-33" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;订单状态更新为已支付&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
-          <mxGeometry x="335" y="420" width="110" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="IeCUnq5MaQmrZLW1ni2W-35" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;余额不足&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
-          <mxGeometry x="335" y="670" width="110" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="IeCUnq5MaQmrZLW1ni2W-38" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="375" y="365" width="30" height="30" as="geometry" />
         </mxCell>
