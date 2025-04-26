@@ -34,6 +34,9 @@
         <mxCell id="PWo7f0E4sNLE9X1GmCmb-40" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;添加&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
           <mxGeometry x="650" y="195" width="110" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="PWo7f0E4sNLE9X1GmCmb-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PWo7f0E4sNLE9X1GmCmb-41" target="PWo7f0E4sNLE9X1GmCmb-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PWo7f0E4sNLE9X1GmCmb-41" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;删除&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
           <mxGeometry x="640" y="290" width="110" height="40" as="geometry" />
         </mxCell>
@@ -61,11 +64,6 @@
         <mxCell id="PWo7f0E4sNLE9X1GmCmb-45" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;输入用户名/密码/个人信息&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
           <mxGeometry x="810" y="195" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PWo7f0E4sNLE9X1GmCmb-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PWo7f0E4sNLE9X1GmCmb-47">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1125" y="190" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="PWo7f0E4sNLE9X1GmCmb-47" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;提交&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
           <mxGeometry x="950" y="195" width="110" height="40" as="geometry" />
         </mxCell>
@@ -77,6 +75,9 @@
         </mxCell>
         <mxCell id="PWo7f0E4sNLE9X1GmCmb-53" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;修改操作员信息&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
           <mxGeometry x="920" y="110" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PWo7f0E4sNLE9X1GmCmb-57" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;删除&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
+          <mxGeometry x="830" y="290" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
