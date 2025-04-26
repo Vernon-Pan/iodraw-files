@@ -223,8 +223,8 @@
             <mxPoint x="890" y="1290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="P0SGHabeI43tgDxfInF3-112" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;创建充值订单&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="760" y="1260" width="120" height="30" as="geometry" />
+        <mxCell id="P0SGHabeI43tgDxfInF3-112" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;生成支付流水号&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="750" y="1260" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
