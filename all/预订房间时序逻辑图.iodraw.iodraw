@@ -44,10 +44,9 @@
           <mxGeometry x="275" y="170" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="e1pMPYoYYU5mIjO0hJO8-14" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
-          <mxGeometry x="1" y="-184" relative="1" as="geometry">
-            <mxPoint x="570" y="360" as="sourcePoint" />
-            <mxPoint x="490" y="360" as="targetPoint" />
-            <mxPoint x="-140" y="64" as="offset" />
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="250" as="sourcePoint" />
+            <mxPoint x="310" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
