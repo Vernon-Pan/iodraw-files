@@ -19,17 +19,21 @@
         <mxCell id="-280MmASgq-nDinSC5Cw-5" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;初始化评论列表&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
           <mxGeometry x="500" y="190" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-280MmASgq-nDinSC5Cw-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-280MmASgq-nDinSC5Cw-9" target="-280MmASgq-nDinSC5Cw-16">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="-280MmASgq-nDinSC5Cw-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-280MmASgq-nDinSC5Cw-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="865" y="195" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="-280MmASgq-nDinSC5Cw-9" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;添加&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
           <mxGeometry x="630" y="60" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-280MmASgq-nDinSC5Cw-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-280MmASgq-nDinSC5Cw-11" target="-280MmASgq-nDinSC5Cw-24">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="-280MmASgq-nDinSC5Cw-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-280MmASgq-nDinSC5Cw-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="885" y="330" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="-280MmASgq-nDinSC5Cw-11" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;删除&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
-          <mxGeometry x="640" y="290" width="110" height="40" as="geometry" />
+          <mxGeometry x="585" y="394" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-280MmASgq-nDinSC5Cw-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-280MmASgq-nDinSC5Cw-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -42,33 +46,6 @@
             <mxPoint x="570" y="340" as="sourcePoint" />
             <mxPoint x="620" y="290" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="-280MmASgq-nDinSC5Cw-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-280MmASgq-nDinSC5Cw-16" target="-280MmASgq-nDinSC5Cw-18">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-280MmASgq-nDinSC5Cw-16" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;输入用户名/密码/个人信息&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
-          <mxGeometry x="810" y="195" width="110" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="-280MmASgq-nDinSC5Cw-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-280MmASgq-nDinSC5Cw-18" target="-280MmASgq-nDinSC5Cw-26">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-280MmASgq-nDinSC5Cw-18" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;提交&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
-          <mxGeometry x="970" y="195" width="110" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="-280MmASgq-nDinSC5Cw-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-280MmASgq-nDinSC5Cw-24" target="-280MmASgq-nDinSC5Cw-26">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-280MmASgq-nDinSC5Cw-24" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;确认删除&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
-          <mxGeometry x="830" y="290" width="110" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="-280MmASgq-nDinSC5Cw-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-280MmASgq-nDinSC5Cw-26" target="-280MmASgq-nDinSC5Cw-27">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-280MmASgq-nDinSC5Cw-26" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;刷新&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="290" width="110" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="-280MmASgq-nDinSC5Cw-27" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="1060" y="360" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
