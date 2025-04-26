@@ -34,7 +34,7 @@
         <mxCell id="9N2ny8L-kPAaRB6rVlP5-10" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="890" y="430" width="10" height="1160" as="geometry" />
         </mxCell>
-        <mxCell id="9N2ny8L-kPAaRB6rVlP5-11" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;点击查看个人信息&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="9N2ny8L-kPAaRB6rVlP5-11" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;点击首页入住登记&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="275" y="445" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9N2ny8L-kPAaRB6rVlP5-12" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1" source="9N2ny8L-kPAaRB6rVlP5-1">
