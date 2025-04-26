@@ -36,14 +36,14 @@
         <mxCell id="q9F87xCSlOOMbdpChqxH-9" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;微信支付&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
           <mxGeometry x="380" y="430" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="q9F87xCSlOOMbdpChqxH-10" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;管理我的钱包&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
+        <mxCell id="q9F87xCSlOOMbdpChqxH-10" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;查询&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
           <mxGeometry x="780" y="255" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="q9F87xCSlOOMbdpChqxH-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q9F87xCSlOOMbdpChqxH-12" target="q9F87xCSlOOMbdpChqxH-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="q9F87xCSlOOMbdpChqxH-12" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;输入手机号、姓名&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
-          <mxGeometry x="600" y="255" width="110" height="40" as="geometry" />
+          <mxGeometry x="550" y="190" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="q9F87xCSlOOMbdpChqxH-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q9F87xCSlOOMbdpChqxH-14" target="q9F87xCSlOOMbdpChqxH-17">
           <mxGeometry relative="1" as="geometry" />
