@@ -113,8 +113,14 @@
         <mxCell id="6MwM80KFG0n85IdUljnB-43" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;订单状态更新为已支付&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
           <mxGeometry x="335" y="470" width="110" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="6MwM80KFG0n85IdUljnB-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6MwM80KFG0n85IdUljnB-53" target="6MwM80KFG0n85IdUljnB-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6MwM80KFG0n85IdUljnB-53" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;余额不足&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
           <mxGeometry x="335" y="670" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6MwM80KFG0n85IdUljnB-57" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;余额不足&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
+          <mxGeometry x="525" y="670" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
