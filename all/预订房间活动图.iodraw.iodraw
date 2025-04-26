@@ -101,8 +101,8 @@
         <mxCell id="6MwM80KFG0n85IdUljnB-39" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;订单已&lt;/span&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;取消&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
           <mxGeometry x="450" y="360" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6MwM80KFG0n85IdUljnB-43" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;输入密码&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
-          <mxGeometry x="485" y="580" width="110" height="40" as="geometry" />
+        <mxCell id="6MwM80KFG0n85IdUljnB-43" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;订单状态更新为已支付&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
+          <mxGeometry x="195" y="570" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
