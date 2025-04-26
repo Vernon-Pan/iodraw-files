@@ -214,6 +214,15 @@
         <mxCell id="P0SGHabeI43tgDxfInF3-108" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;选择支付方式&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="280" y="1170" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="P0SGHabeI43tgDxfInF3-109" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1" target="P0SGHabeI43tgDxfInF3-48">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="260" y="1240" as="sourcePoint" />
+            <mxPoint x="420" y="1240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P0SGHabeI43tgDxfInF3-110" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;选择支付方式&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1211" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
