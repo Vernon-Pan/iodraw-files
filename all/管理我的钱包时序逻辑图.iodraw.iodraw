@@ -34,8 +34,8 @@
         <mxCell id="P0SGHabeI43tgDxfInF3-55" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="860" y="420" width="10" height="740" as="geometry" />
         </mxCell>
-        <mxCell id="P0SGHabeI43tgDxfInF3-56" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;点击个人信息&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="290" y="445" width="120" height="30" as="geometry" />
+        <mxCell id="P0SGHabeI43tgDxfInF3-56" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;点击查看个人信息&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="275" y="445" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P0SGHabeI43tgDxfInF3-57" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1" source="P0SGHabeI43tgDxfInF3-46">
           <mxGeometry width="160" relative="1" as="geometry">
