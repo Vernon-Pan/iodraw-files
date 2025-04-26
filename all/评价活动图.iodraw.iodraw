@@ -82,7 +82,7 @@
         <mxCell id="IeCUnq5MaQmrZLW1ni2W-49" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;已评价&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=0;direction=north;" vertex="1" parent="1">
           <mxGeometry x="630" y="430" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="IeCUnq5MaQmrZLW1ni2W-51" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;余额不足&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
+        <mxCell id="IeCUnq5MaQmrZLW1ni2W-51" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;查看评价&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
           <mxGeometry x="615" y="355" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IeCUnq5MaQmrZLW1ni2W-52" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;余额不足&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
