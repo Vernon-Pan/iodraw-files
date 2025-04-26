@@ -67,18 +67,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IeCUnq5MaQmrZLW1ni2W-27" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;取消订单&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
-          <mxGeometry x="640" y="480" width="110" height="40" as="geometry" />
+          <mxGeometry x="550" y="420" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IeCUnq5MaQmrZLW1ni2W-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="IeCUnq5MaQmrZLW1ni2W-31">
+        <mxCell id="IeCUnq5MaQmrZLW1ni2W-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="IeCUnq5MaQmrZLW1ni2W-38">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="640" y="380" as="sourcePoint" />
+            <mxPoint x="450" y="380" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="IeCUnq5MaQmrZLW1ni2W-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IeCUnq5MaQmrZLW1ni2W-31" target="IeCUnq5MaQmrZLW1ni2W-38">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="IeCUnq5MaQmrZLW1ni2W-31" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;订单状态更新为已&lt;/span&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;取消&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
-          <mxGeometry x="450" y="360" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IeCUnq5MaQmrZLW1ni2W-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IeCUnq5MaQmrZLW1ni2W-33" target="IeCUnq5MaQmrZLW1ni2W-38">
           <mxGeometry relative="1" as="geometry" />
