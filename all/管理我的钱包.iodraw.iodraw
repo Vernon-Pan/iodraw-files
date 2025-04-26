@@ -66,6 +66,9 @@
         <mxCell id="H2jvQE9wgcPiWXuw-Nxy-34" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;输入金额&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
           <mxGeometry x="530" y="470" width="110" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="H2jvQE9wgcPiWXuw-Nxy-36" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;提交&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
+          <mxGeometry x="380" y="510" width="110" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
