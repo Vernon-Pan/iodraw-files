@@ -72,7 +72,7 @@
           <mxGeometry x="290" y="310" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="U29VC_uSn6H73br2e2OY-23" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;无需扣除费用&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
-          <mxGeometry x="205" y="460" width="110" height="40" as="geometry" />
+          <mxGeometry x="290" y="540" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="U29VC_uSn6H73br2e2OY-36" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;输入入住人数&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
           <mxGeometry x="620" y="394" width="110" height="40" as="geometry" />
