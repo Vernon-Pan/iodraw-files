@@ -84,8 +84,8 @@
         <mxCell id="-280MmASgq-nDinSC5Cw-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-280MmASgq-nDinSC5Cw-43" target="-280MmASgq-nDinSC5Cw-86">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="555" y="700" />
-              <mxPoint x="1110" y="700" />
+              <mxPoint x="555" y="670" />
+              <mxPoint x="1090" y="670" />
             </Array>
           </mxGeometry>
         </mxCell>
