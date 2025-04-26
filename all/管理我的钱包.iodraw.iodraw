@@ -7,6 +7,9 @@
         <mxCell id="H2jvQE9wgcPiWXuw-Nxy-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;登录&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="305" y="295" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="H2jvQE9wgcPiWXuw-Nxy-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H2jvQE9wgcPiWXuw-Nxy-3" target="H2jvQE9wgcPiWXuw-Nxy-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="H2jvQE9wgcPiWXuw-Nxy-3" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;点击查看个人信息&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
           <mxGeometry x="430" y="255" width="110" height="40" as="geometry" />
         </mxCell>
@@ -25,11 +28,10 @@
         <mxCell id="H2jvQE9wgcPiWXuw-Nxy-10" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="320" y="260" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="H2jvQE9wgcPiWXuw-Nxy-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H2jvQE9wgcPiWXuw-Nxy-12" target="H2jvQE9wgcPiWXuw-Nxy-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="H2jvQE9wgcPiWXuw-Nxy-12" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;查看当前余额&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
-          <mxGeometry x="780" y="255" width="110" height="40" as="geometry" />
+        <mxCell id="H2jvQE9wgcPiWXuw-Nxy-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="H2jvQE9wgcPiWXuw-Nxy-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="835" y="295" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="H2jvQE9wgcPiWXuw-Nxy-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H2jvQE9wgcPiWXuw-Nxy-17" target="H2jvQE9wgcPiWXuw-Nxy-20">
           <mxGeometry relative="1" as="geometry" />
@@ -79,6 +81,11 @@
         </mxCell>
         <mxCell id="H2jvQE9wgcPiWXuw-Nxy-24" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;管理我的钱包&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
           <mxGeometry x="880" y="350" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="H2jvQE9wgcPiWXuw-Nxy-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H2jvQE9wgcPiWXuw-Nxy-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="780" y="275" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="H2jvQE9wgcPiWXuw-Nxy-25" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;查看当前余额&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
           <mxGeometry x="600" y="255" width="110" height="40" as="geometry" />
