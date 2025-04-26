@@ -73,8 +73,11 @@
         <mxCell id="Q1TwuoBVbDCJtwSQ9-6y-22" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;修改信息&lt;/span&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="490" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Q1TwuoBVbDCJtwSQ9-6y-23" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;修改信息&lt;/span&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Q1TwuoBVbDCJtwSQ9-6y-23" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;修改密码&lt;/span&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="428.5" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q1TwuoBVbDCJtwSQ9-6y-25" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;修改密码&lt;/span&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="438.5" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
