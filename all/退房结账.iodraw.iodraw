@@ -22,6 +22,9 @@
         <mxCell id="PWo7f0E4sNLE9X1GmCmb-9" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;显示操作员信息&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
           <mxGeometry x="500" y="190" width="110" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="PWo7f0E4sNLE9X1GmCmb-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PWo7f0E4sNLE9X1GmCmb-37" target="PWo7f0E4sNLE9X1GmCmb-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PWo7f0E4sNLE9X1GmCmb-37" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;编辑&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
           <mxGeometry x="640" y="110" width="110" height="40" as="geometry" />
         </mxCell>
@@ -66,6 +69,9 @@
         </mxCell>
         <mxCell id="PWo7f0E4sNLE9X1GmCmb-49" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;提交&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
           <mxGeometry x="1090" y="195" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PWo7f0E4sNLE9X1GmCmb-51" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;编辑&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
+          <mxGeometry x="780" y="110" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
