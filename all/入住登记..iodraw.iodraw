@@ -59,6 +59,9 @@
         <mxCell id="q9F87xCSlOOMbdpChqxH-34" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;存在订单&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="705" y="290" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="q9F87xCSlOOMbdpChqxH-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="q9F87xCSlOOMbdpChqxH-40" target="q9F87xCSlOOMbdpChqxH-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="q9F87xCSlOOMbdpChqxH-40" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;未找到订单&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
           <mxGeometry x="860" y="310" width="110" height="40" as="geometry" />
         </mxCell>
