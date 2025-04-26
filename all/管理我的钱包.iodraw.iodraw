@@ -111,16 +111,17 @@
         <mxCell id="H2jvQE9wgcPiWXuw-Nxy-47" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;支付成功&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
           <mxGeometry x="240" y="320" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="H2jvQE9wgcPiWXuw-Nxy-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H2jvQE9wgcPiWXuw-Nxy-49">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="440" y="260" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="H2jvQE9wgcPiWXuw-Nxy-49" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;更新余额明细&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
           <mxGeometry x="380" y="320" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="H2jvQE9wgcPiWXuw-Nxy-51" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="510" y="265" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H2jvQE9wgcPiWXuw-Nxy-53" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="340" as="sourcePoint" />
+            <mxPoint x="510" y="290" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
