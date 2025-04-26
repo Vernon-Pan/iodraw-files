@@ -313,6 +313,15 @@
             <mxPoint x="780" y="1440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="9N2ny8L-kPAaRB6rVlP5-67" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1" target="9N2ny8L-kPAaRB6rVlP5-3">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="260" y="550" as="sourcePoint" />
+            <mxPoint x="420" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9N2ny8L-kPAaRB6rVlP5-68" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;点击首页入住登记&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="285" y="455" width="150" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
