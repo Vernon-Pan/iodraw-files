@@ -193,10 +193,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AY0sDBk7qBAhj82zwfmy-60" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="AY0sDBk7qBAhj82zwfmy-1" target="AY0sDBk7qBAhj82zwfmy-3">
+        <mxCell id="AY0sDBk7qBAhj82zwfmy-60" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="290" y="1040" as="sourcePoint" />
-            <mxPoint x="340" y="990" as="targetPoint" />
+            <mxPoint x="265" y="1030" as="sourcePoint" />
+            <mxPoint x="435" y="1030" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
