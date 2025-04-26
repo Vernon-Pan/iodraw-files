@@ -136,10 +136,10 @@
         <mxCell id="P0SGHabeI43tgDxfInF3-88" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;点击余额明细&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="290" y="890" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="P0SGHabeI43tgDxfInF3-89" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;显示评论信息&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" source="P0SGHabeI43tgDxfInF3-48">
+        <mxCell id="P0SGHabeI43tgDxfInF3-89" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;显示评论信息&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="340" y="1150" as="sourcePoint" />
-            <mxPoint x="260" y="1150" as="targetPoint" />
+            <mxPoint x="430" y="1020" as="sourcePoint" />
+            <mxPoint x="260" y="1020" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="P0SGHabeI43tgDxfInF3-90" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1" target="P0SGHabeI43tgDxfInF3-54">
