@@ -20,7 +20,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-280MmASgq-nDinSC5Cw-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-280MmASgq-nDinSC5Cw-5" target="-280MmASgq-nDinSC5Cw-28">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="555" y="270" />
+              <mxPoint x="615" y="270" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="-280MmASgq-nDinSC5Cw-5" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;初始化评论列表&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
           <mxGeometry x="500" y="190" width="110" height="40" as="geometry" />
@@ -29,7 +34,7 @@
           <mxGeometry x="360" y="300" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-280MmASgq-nDinSC5Cw-28" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;批量操作&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
-          <mxGeometry x="560" y="330" width="110" height="40" as="geometry" />
+          <mxGeometry x="560" y="320" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-280MmASgq-nDinSC5Cw-29" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;单条管理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
           <mxGeometry x="660" y="195" width="110" height="40" as="geometry" />
