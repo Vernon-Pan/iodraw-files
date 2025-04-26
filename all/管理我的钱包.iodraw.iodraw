@@ -34,7 +34,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="H2jvQE9wgcPiWXuw-Nxy-21" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;提交&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
-          <mxGeometry x="290" y="414" width="110" height="40" as="geometry" />
+          <mxGeometry x="380" y="430" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="H2jvQE9wgcPiWXuw-Nxy-24" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;管理我的钱包&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
           <mxGeometry x="780" y="255" width="110" height="40" as="geometry" />
