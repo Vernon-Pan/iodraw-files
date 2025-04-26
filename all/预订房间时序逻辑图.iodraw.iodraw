@@ -137,8 +137,8 @@
         </mxCell>
         <mxCell id="e1pMPYoYYU5mIjO0hJO8-37" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;显示订单详情&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="435" y="710" as="sourcePoint" />
-            <mxPoint x="265" y="710" as="targetPoint" />
+            <mxPoint x="430" y="870" as="sourcePoint" />
+            <mxPoint x="260" y="870" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
