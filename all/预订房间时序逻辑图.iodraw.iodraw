@@ -201,14 +201,14 @@
             <mxPoint x="460" y="820" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e1pMPYoYYU5mIjO0hJO8-50" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="e1pMPYoYYU5mIjO0hJO8-50" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1" target="e1pMPYoYYU5mIjO0hJO8-10">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="255" y="842.5" as="sourcePoint" />
             <mxPoint x="725" y="842.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="e1pMPYoYYU5mIjO0hJO8-51" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;输入支付密码&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="480" y="828" width="120" height="30" as="geometry" />
+          <mxGeometry x="460" y="820" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
