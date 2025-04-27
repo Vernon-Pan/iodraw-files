@@ -112,7 +112,7 @@
             <mxPoint x="890" y="890" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nMPs5wifsIKEpQgjNQnH-36" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;返回交易数据(时间/金额/说明/状态)&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" source="nMPs5wifsIKEpQgjNQnH-10">
+        <mxCell id="nMPs5wifsIKEpQgjNQnH-36" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;返回新操作员ID&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" source="nMPs5wifsIKEpQgjNQnH-10" target="nMPs5wifsIKEpQgjNQnH-67">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="860" y="1000" as="sourcePoint" />
             <mxPoint x="620" y="1000" as="targetPoint" />
@@ -221,7 +221,7 @@
           <mxGeometry x="550" y="1370" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nMPs5wifsIKEpQgjNQnH-67" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="660" y="430" width="10" height="480" as="geometry" />
+          <mxGeometry x="660" y="430" width="10" height="520" as="geometry" />
         </mxCell>
         <mxCell id="nMPs5wifsIKEpQgjNQnH-68" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;获取操作员数据&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="715" y="530" width="140" height="30" as="geometry" />
