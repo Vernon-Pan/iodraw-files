@@ -277,6 +277,12 @@
             <mxPoint x="430" y="1004.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="AjGlTVtisOLkPBY74CM2-67" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;显示最新操作员列表&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="1370" as="sourcePoint" />
+            <mxPoint x="270" y="1370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
