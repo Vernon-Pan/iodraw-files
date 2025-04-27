@@ -307,6 +307,15 @@
         <mxCell id="AjGlTVtisOLkPBY74CM2-80" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;发送编辑/添加&lt;/span&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;模板请求&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="455" y="1570" width="190" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="AjGlTVtisOLkPBY74CM2-81" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;单条更新回复状态和内容&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="690" y="1600" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AjGlTVtisOLkPBY74CM2-82" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="730" y="1630" as="sourcePoint" />
+            <mxPoint x="890" y="1630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
