@@ -76,13 +76,7 @@
             <mxPoint x="440" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nMPs5wifsIKEpQgjNQnH-29" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="260" y="940" as="sourcePoint" />
-            <mxPoint x="430" y="940" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="nMPs5wifsIKEpQgjNQnH-31" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;展示入住登记表单&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="nMPs5wifsIKEpQgjNQnH-31" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;显示最新操作员列表&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="430" y="980" as="sourcePoint" />
             <mxPoint x="260" y="980" as="targetPoint" />
