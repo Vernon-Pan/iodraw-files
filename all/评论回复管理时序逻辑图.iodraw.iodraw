@@ -261,8 +261,8 @@
         </mxCell>
         <mxCell id="AjGlTVtisOLkPBY74CM2-69" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="190" y="1310.5" as="sourcePoint" />
-            <mxPoint x="430" y="1310" as="targetPoint" />
+            <mxPoint x="190" y="1241.5" as="sourcePoint" />
+            <mxPoint x="430" y="1241" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AjGlTVtisOLkPBY74CM2-70" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;选择模板/输入内容&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -270,12 +270,12 @@
         </mxCell>
         <mxCell id="AjGlTVtisOLkPBY74CM2-71" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="440" y="1340" as="sourcePoint" />
-            <mxPoint x="660" y="1340" as="targetPoint" />
+            <mxPoint x="435" y="1290" as="sourcePoint" />
+            <mxPoint x="655" y="1290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AjGlTVtisOLkPBY74CM2-72" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;发送批量回复请求&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="480" y="1310" width="150" height="30" as="geometry" />
+          <mxGeometry x="470" y="1260" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AjGlTVtisOLkPBY74CM2-73" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;批量更新回复状态和内容&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="685" y="1330" width="200" height="30" as="geometry" />
