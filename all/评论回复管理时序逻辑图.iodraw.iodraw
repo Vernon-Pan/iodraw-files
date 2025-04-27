@@ -289,6 +289,15 @@
             <mxPoint x="440" y="1290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="AjGlTVtisOLkPBY74CM2-69" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="190" y="1310.5" as="sourcePoint" />
+            <mxPoint x="430" y="1310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AjGlTVtisOLkPBY74CM2-70" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;勾选多条评论，点击批量回复&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1190" width="230" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
