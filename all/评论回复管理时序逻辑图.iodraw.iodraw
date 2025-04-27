@@ -76,13 +76,6 @@
             <mxPoint x="440" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AjGlTVtisOLkPBY74CM2-18" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;显示最新操作员列表&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
-          <mxGeometry x="0.4118" y="70" relative="1" as="geometry">
-            <mxPoint x="430" y="980" as="sourcePoint" />
-            <mxPoint x="260" y="980" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="AjGlTVtisOLkPBY74CM2-19" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="670" y="890.0000000000001" as="sourcePoint" />
