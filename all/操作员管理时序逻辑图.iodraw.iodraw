@@ -259,6 +259,9 @@
             <mxPoint x="420" y="1470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="nMPs5wifsIKEpQgjNQnH-88" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;点击删除按钮&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1440" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
