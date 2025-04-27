@@ -199,7 +199,7 @@
             <mxPoint x="670" y="1110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AjGlTVtisOLkPBY74CM2-45" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;返回操作员详情&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="AjGlTVtisOLkPBY74CM2-45" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;返回操作成功&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="660" y="1150" as="sourcePoint" />
             <mxPoint x="440" y="1150" as="targetPoint" />
