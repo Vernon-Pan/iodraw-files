@@ -111,8 +111,8 @@
         </mxCell>
         <mxCell id="AjGlTVtisOLkPBY74CM2-32" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="670" y="1360" as="sourcePoint" />
-            <mxPoint x="890" y="1360" as="targetPoint" />
+            <mxPoint x="670" y="1300" as="sourcePoint" />
+            <mxPoint x="890" y="1300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AjGlTVtisOLkPBY74CM2-34" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
@@ -278,7 +278,7 @@
           <mxGeometry x="470" y="1250" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AjGlTVtisOLkPBY74CM2-73" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;批量更新回复状态和内容&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="685" y="1330" width="200" height="30" as="geometry" />
+          <mxGeometry x="685" y="1270" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AjGlTVtisOLkPBY74CM2-74" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;返回更新结果&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
