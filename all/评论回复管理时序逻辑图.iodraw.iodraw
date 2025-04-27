@@ -101,7 +101,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="AjGlTVtisOLkPBY74CM2-28" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;事务删除多条记录&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="700" y="1040" width="150" height="30" as="geometry" />
+          <mxGeometry x="710" y="990" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AjGlTVtisOLkPBY74CM2-30" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;刷新显示回复状态和内容&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" target="AjGlTVtisOLkPBY74CM2-1">
           <mxGeometry relative="1" as="geometry">
