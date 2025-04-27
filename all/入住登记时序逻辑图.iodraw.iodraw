@@ -169,9 +169,6 @@
             <mxPoint x="420" y="1200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9N2ny8L-kPAaRB6rVlP5-45" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;选择支付方式&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="280" y="1170" width="120" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="9N2ny8L-kPAaRB6rVlP5-46" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1" target="9N2ny8L-kPAaRB6rVlP5-3">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="260" y="1240" as="sourcePoint" />
@@ -349,7 +346,7 @@
             <mxPoint x="445" y="1080.45" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9N2ny8L-kPAaRB6rVlP5-101" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;返回退房成功&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" source="9N2ny8L-kPAaRB6rVlP5-3">
+        <mxCell id="9N2ny8L-kPAaRB6rVlP5-101" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;显示退房完成提示&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" source="9N2ny8L-kPAaRB6rVlP5-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="425" y="1109.09" as="sourcePoint" />
             <mxPoint x="260" y="1109.54" as="targetPoint" />
