@@ -112,14 +112,14 @@
         <mxCell id="nMPs5wifsIKEpQgjNQnH-40" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;点击编辑按钮&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="290" y="990" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nMPs5wifsIKEpQgjNQnH-45" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1" target="nMPs5wifsIKEpQgjNQnH-3">
+        <mxCell id="nMPs5wifsIKEpQgjNQnH-45" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="260" y="1240" as="sourcePoint" />
-            <mxPoint x="420" y="1240" as="targetPoint" />
+            <mxPoint x="260" y="1214.5" as="sourcePoint" />
+            <mxPoint x="430" y="1214.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nMPs5wifsIKEpQgjNQnH-46" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;点击立即充值&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="290" y="1180" width="120" height="30" as="geometry" />
+        <mxCell id="nMPs5wifsIKEpQgjNQnH-46" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;修改信息并提交&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1180" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nMPs5wifsIKEpQgjNQnH-47" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
