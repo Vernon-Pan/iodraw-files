@@ -169,10 +169,10 @@
             <mxPoint x="260" y="750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AjGlTVtisOLkPBY74CM2-37" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1" source="AjGlTVtisOLkPBY74CM2-1">
+        <mxCell id="AjGlTVtisOLkPBY74CM2-37" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="270" y="790" as="sourcePoint" />
-            <mxPoint x="430" y="790" as="targetPoint" />
+            <mxPoint x="420" y="740" as="sourcePoint" />
+            <mxPoint x="660" y="740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AjGlTVtisOLkPBY74CM2-38" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;填写操作员信息&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
