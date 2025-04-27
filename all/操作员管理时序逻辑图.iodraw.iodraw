@@ -235,8 +235,8 @@
         <mxCell id="nMPs5wifsIKEpQgjNQnH-74" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;插入操作员记录&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="715" y="857" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nMPs5wifsIKEpQgjNQnH-75" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;发送添加操作员请求&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="460" y="1020" width="170" height="30" as="geometry" />
+        <mxCell id="nMPs5wifsIKEpQgjNQnH-75" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;获取操作员请求&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="475" y="1020" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nMPs5wifsIKEpQgjNQnH-76" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
