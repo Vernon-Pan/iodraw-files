@@ -298,10 +298,10 @@
             <mxPoint x="670" y="790" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AjGlTVtisOLkPBY74CM2-63" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;返回添加成功&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="AjGlTVtisOLkPBY74CM2-63" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;返回过滤后的评论&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="680" y="970" as="sourcePoint" />
-            <mxPoint x="460" y="970" as="targetPoint" />
+            <mxPoint x="660" y="820" as="sourcePoint" />
+            <mxPoint x="440" y="820" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
