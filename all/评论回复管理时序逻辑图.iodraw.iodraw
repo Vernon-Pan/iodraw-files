@@ -99,8 +99,8 @@
         </mxCell>
         <mxCell id="AjGlTVtisOLkPBY74CM2-23" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="260" y="1019.09" as="sourcePoint" />
-            <mxPoint x="430" y="1019.09" as="targetPoint" />
+            <mxPoint x="190" y="890" as="sourcePoint" />
+            <mxPoint x="430" y="890" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AjGlTVtisOLkPBY74CM2-24" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;勾选多条评论&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
