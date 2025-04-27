@@ -277,8 +277,8 @@
             <mxPoint x="830" y="1510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nMPs5wifsIKEpQgjNQnH-92" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;更新操作员数据&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="710" y="1260" width="140" height="30" as="geometry" />
+        <mxCell id="nMPs5wifsIKEpQgjNQnH-92" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;执行删除&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="740" y="1480" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
