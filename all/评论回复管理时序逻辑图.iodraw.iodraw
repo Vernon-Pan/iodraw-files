@@ -46,8 +46,8 @@
             <mxPoint x="430" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AjGlTVtisOLkPBY74CM2-12" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;点击添加操作员&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="270" y="680" width="140" height="30" as="geometry" />
+        <mxCell id="AjGlTVtisOLkPBY74CM2-12" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;设置筛选条件（评分/状态等）&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="680" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AjGlTVtisOLkPBY74CM2-13" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1" source="AjGlTVtisOLkPBY74CM2-34">
           <mxGeometry width="160" relative="1" as="geometry">
