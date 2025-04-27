@@ -334,8 +334,8 @@
             <mxPoint x="890" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9N2ny8L-kPAaRB6rVlP5-90" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;发起房态检测&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="475" y="660" width="120" height="30" as="geometry" />
+        <mxCell id="9N2ny8L-kPAaRB6rVlP5-90" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;获取房间状态&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="770" y="650" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
