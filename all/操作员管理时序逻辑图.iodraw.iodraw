@@ -244,8 +244,14 @@
             <mxPoint x="420" y="1400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nMPs5wifsIKEpQgjNQnH-85" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;修改信息并提交&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="280" y="1370" width="140" height="30" as="geometry" />
+        <mxCell id="nMPs5wifsIKEpQgjNQnH-85" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;点击删除按钮&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1370" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nMPs5wifsIKEpQgjNQnH-86" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="1440" as="sourcePoint" />
+            <mxPoint x="260" y="1440" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
