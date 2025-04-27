@@ -300,9 +300,12 @@
         </mxCell>
         <mxCell id="AjGlTVtisOLkPBY74CM2-79" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="420" y="1600" as="sourcePoint" />
+            <mxPoint x="440" y="1600" as="sourcePoint" />
             <mxPoint x="660" y="1600" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="AjGlTVtisOLkPBY74CM2-80" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;点击&lt;/span&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;编辑/添加&lt;/span&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;模板&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1540" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
