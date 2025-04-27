@@ -246,8 +246,8 @@
         </mxCell>
         <mxCell id="nMPs5wifsIKEpQgjNQnH-77" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;返回新操作员ID&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="900" y="945" as="sourcePoint" />
-            <mxPoint x="680" y="945" as="targetPoint" />
+            <mxPoint x="890" y="1110" as="sourcePoint" />
+            <mxPoint x="670" y="1110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
