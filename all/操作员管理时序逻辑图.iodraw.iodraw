@@ -25,19 +25,13 @@
         <mxCell id="nMPs5wifsIKEpQgjNQnH-10" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="890" y="430" width="10" height="1010" as="geometry" />
         </mxCell>
-        <mxCell id="nMPs5wifsIKEpQgjNQnH-11" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;点击首页入住登记&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="275" y="445" width="150" height="30" as="geometry" />
+        <mxCell id="nMPs5wifsIKEpQgjNQnH-11" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;点击菜单操作员管理&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="265" y="445" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nMPs5wifsIKEpQgjNQnH-12" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1" source="nMPs5wifsIKEpQgjNQnH-1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="270" y="480" as="sourcePoint" />
             <mxPoint x="430" y="480" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="nMPs5wifsIKEpQgjNQnH-13" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;显示查询输入框&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="430" y="519.9999999999999" as="sourcePoint" />
-            <mxPoint x="260" y="519.9999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nMPs5wifsIKEpQgjNQnH-14" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;显示匹配订单列表&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
