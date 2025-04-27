@@ -91,8 +91,8 @@
             <mxPoint x="430" y="1214.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AjGlTVtisOLkPBY74CM2-26" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;修改信息并提交&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="280" y="1180" width="140" height="30" as="geometry" />
+        <mxCell id="AjGlTVtisOLkPBY74CM2-26" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;勾选多条评论，点击批量回复&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1180" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AjGlTVtisOLkPBY74CM2-27" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
