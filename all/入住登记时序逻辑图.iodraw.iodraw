@@ -269,12 +269,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9N2ny8L-kPAaRB6rVlP5-95" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;更新房间状态&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="765" y="940" width="120" height="30" as="geometry" />
+          <mxGeometry x="770" y="980" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9N2ny8L-kPAaRB6rVlP5-96" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="760" y="969" as="sourcePoint" />
-            <mxPoint x="890" y="969.09" as="targetPoint" />
+            <mxPoint x="760" y="1010" as="sourcePoint" />
+            <mxPoint x="890" y="1010.09" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9N2ny8L-kPAaRB6rVlP5-97" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;返回操作结果&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" target="9N2ny8L-kPAaRB6rVlP5-8">
