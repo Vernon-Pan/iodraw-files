@@ -220,8 +220,8 @@
             <mxPoint x="890" y="1300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9N2ny8L-kPAaRB6rVlP5-77" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;更新订单状态&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="770" y="1261" width="120" height="30" as="geometry" />
+        <mxCell id="9N2ny8L-kPAaRB6rVlP5-77" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;房间清扫&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="785" y="1261" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9N2ny8L-kPAaRB6rVlP5-78" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="9N2ny8L-kPAaRB6rVlP5-79" target="9N2ny8L-kPAaRB6rVlP5-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
