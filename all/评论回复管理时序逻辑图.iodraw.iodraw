@@ -136,12 +136,6 @@
             <mxPoint x="260" y="1579" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AjGlTVtisOLkPBY74CM2-31" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;返回添加成功&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" source="AjGlTVtisOLkPBY74CM2-34">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="610" y="950" as="sourcePoint" />
-            <mxPoint x="440" y="950" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="AjGlTVtisOLkPBY74CM2-32" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1" source="AjGlTVtisOLkPBY74CM2-34">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="760" y="1280" as="sourcePoint" />
