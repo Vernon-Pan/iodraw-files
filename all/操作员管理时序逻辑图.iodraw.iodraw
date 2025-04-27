@@ -127,8 +127,8 @@
             <mxPoint x="610" y="860" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nMPs5wifsIKEpQgjNQnH-38" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;请求推荐房间&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="480" y="827" width="120" height="30" as="geometry" />
+        <mxCell id="nMPs5wifsIKEpQgjNQnH-38" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;发送添加操作员去请求&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="450" y="827" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nMPs5wifsIKEpQgjNQnH-39" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -192,15 +192,6 @@
             <mxPoint x="430" y="1420" as="sourcePoint" />
             <mxPoint x="260" y="1420" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="nMPs5wifsIKEpQgjNQnH-56" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1" target="nMPs5wifsIKEpQgjNQnH-10">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="620" y="760" as="sourcePoint" />
-            <mxPoint x="780" y="760" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="nMPs5wifsIKEpQgjNQnH-57" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;检查预定房间可用性&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="675" y="730" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nMPs5wifsIKEpQgjNQnH-58" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;返回房态数据&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" source="nMPs5wifsIKEpQgjNQnH-10">
           <mxGeometry relative="1" as="geometry">
