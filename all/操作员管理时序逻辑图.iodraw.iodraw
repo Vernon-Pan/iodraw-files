@@ -244,7 +244,7 @@
             <mxPoint x="660" y="1050" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nMPs5wifsIKEpQgjNQnH-77" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;返回新操作员ID&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="nMPs5wifsIKEpQgjNQnH-77" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;返回操作员详情&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="890" y="1110" as="sourcePoint" />
             <mxPoint x="670" y="1110" as="targetPoint" />
