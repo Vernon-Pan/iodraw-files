@@ -188,13 +188,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="AjGlTVtisOLkPBY74CM2-52" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;点击回复按钮&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="290" y="1370" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="AjGlTVtisOLkPBY74CM2-53" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;显示确认对话框&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" source="AjGlTVtisOLkPBY74CM2-3">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="340" y="1440" as="sourcePoint" />
-            <mxPoint x="260" y="1440" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="255" y="1380" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AjGlTVtisOLkPBY74CM2-54" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1" target="AjGlTVtisOLkPBY74CM2-3">
           <mxGeometry width="160" relative="1" as="geometry">
