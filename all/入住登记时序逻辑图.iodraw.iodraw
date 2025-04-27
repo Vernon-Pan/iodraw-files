@@ -156,8 +156,8 @@
         </mxCell>
         <mxCell id="9N2ny8L-kPAaRB6rVlP5-37" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="439.5" y="740" as="sourcePoint" />
-            <mxPoint x="609.5" y="740" as="targetPoint" />
+            <mxPoint x="445" y="840" as="sourcePoint" />
+            <mxPoint x="615" y="840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9N2ny8L-kPAaRB6rVlP5-38" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;提交退房请求&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -308,6 +308,12 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="620" y="900" as="sourcePoint" />
             <mxPoint x="890" y="900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9N2ny8L-kPAaRB6rVlP5-85" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="440" y="680" as="sourcePoint" />
+            <mxPoint x="600" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
