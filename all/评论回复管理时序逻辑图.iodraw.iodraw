@@ -70,7 +70,7 @@
         <mxCell id="AjGlTVtisOLkPBY74CM2-16" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;发送请求加载所有评论信息&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="445" y="500" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AjGlTVtisOLkPBY74CM2-17" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;返回JSON列表&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="AjGlTVtisOLkPBY74CM2-17" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;返回JSON统计结果&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="660" y="630" as="sourcePoint" />
             <mxPoint x="440" y="630" as="targetPoint" />
