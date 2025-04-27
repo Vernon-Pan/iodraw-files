@@ -328,6 +328,11 @@
             <mxPoint x="895" y="1241" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="9N2ny8L-kPAaRB6rVlP5-103" value="异步流程" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9N2ny8L-kPAaRB6rVlP5-102">
+          <mxGeometry x="-0.0601" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
