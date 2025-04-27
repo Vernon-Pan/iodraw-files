@@ -310,10 +310,10 @@
             <mxPoint x="890" y="900" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9N2ny8L-kPAaRB6rVlP5-85" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1" target="9N2ny8L-kPAaRB6rVlP5-87">
+        <mxCell id="9N2ny8L-kPAaRB6rVlP5-85" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="440" y="680" as="sourcePoint" />
-            <mxPoint x="600" y="680" as="targetPoint" />
+            <mxPoint x="440" y="669.55" as="sourcePoint" />
+            <mxPoint x="750" y="669.55" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9N2ny8L-kPAaRB6rVlP5-86" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.56;exitY=-0.007;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="9N2ny8L-kPAaRB6rVlP5-9" target="9N2ny8L-kPAaRB6rVlP5-87">
@@ -327,6 +327,12 @@
         </mxCell>
         <mxCell id="9N2ny8L-kPAaRB6rVlP5-88" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;发起房态检测&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="465" y="650" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9N2ny8L-kPAaRB6rVlP5-89" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="760" y="680" as="sourcePoint" />
+            <mxPoint x="920" y="680" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
