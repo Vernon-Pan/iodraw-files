@@ -178,10 +178,10 @@
             <mxPoint x="760" y="1280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9N2ny8L-kPAaRB6rVlP5-51" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;返回入住成功&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" source="9N2ny8L-kPAaRB6rVlP5-9">
+        <mxCell id="9N2ny8L-kPAaRB6rVlP5-51" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;返回入住成功&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="520" y="1340" as="sourcePoint" />
-            <mxPoint x="440" y="1340" as="targetPoint" />
+            <mxPoint x="750" y="1190" as="sourcePoint" />
+            <mxPoint x="440" y="1190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9N2ny8L-kPAaRB6rVlP5-52" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;显示入住完成提示&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" source="9N2ny8L-kPAaRB6rVlP5-3">
