@@ -22,12 +22,6 @@
         <mxCell id="nMPs5wifsIKEpQgjNQnH-7" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;数据库&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="920" y="445" width="30" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="nMPs5wifsIKEpQgjNQnH-8" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="610" y="520" width="10" height="540" as="geometry" />
-        </mxCell>
-        <mxCell id="nMPs5wifsIKEpQgjNQnH-9" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="750" y="1020" width="10" height="420" as="geometry" />
-        </mxCell>
         <mxCell id="nMPs5wifsIKEpQgjNQnH-10" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="890" y="430" width="10" height="1010" as="geometry" />
         </mxCell>
@@ -73,9 +67,6 @@
             <mxPoint x="860" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nMPs5wifsIKEpQgjNQnH-19" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;执行模糊匹配查询&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="665" y="550" width="150" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="nMPs5wifsIKEpQgjNQnH-20" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;返回候选订单列表&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" source="nMPs5wifsIKEpQgjNQnH-10">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="860" y="620" as="sourcePoint" />
@@ -97,26 +88,14 @@
             <mxPoint x="440" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nMPs5wifsIKEpQgjNQnH-24" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1" target="nMPs5wifsIKEpQgjNQnH-8">
+        <mxCell id="nMPs5wifsIKEpQgjNQnH-24" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="440" y="950" as="sourcePoint" />
-            <mxPoint x="560" y="950" as="targetPoint" />
+            <mxPoint x="610" y="950" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nMPs5wifsIKEpQgjNQnH-25" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;请求交易记录&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="470" y="920" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="nMPs5wifsIKEpQgjNQnH-26" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="nMPs5wifsIKEpQgjNQnH-8">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="615" y="510" as="sourcePoint" />
-            <mxPoint x="615" y="420" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="nMPs5wifsIKEpQgjNQnH-27" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.56;exitY=-0.007;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="nMPs5wifsIKEpQgjNQnH-9">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="710" y="380" as="sourcePoint" />
-            <mxPoint x="756" y="440" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="nMPs5wifsIKEpQgjNQnH-28" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;返回推荐房号&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -223,9 +202,9 @@
             <mxPoint x="760" y="1280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nMPs5wifsIKEpQgjNQnH-50" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;返回入住成功&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" source="nMPs5wifsIKEpQgjNQnH-9">
+        <mxCell id="nMPs5wifsIKEpQgjNQnH-50" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;返回入住成功&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="520" y="1340" as="sourcePoint" />
+            <mxPoint x="750" y="1340" as="sourcePoint" />
             <mxPoint x="440" y="1340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -233,12 +212,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="340" y="1360" as="sourcePoint" />
             <mxPoint x="260" y="1360" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="nMPs5wifsIKEpQgjNQnH-52" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=-5;entryPerimeter=0;" edge="1" parent="1" target="nMPs5wifsIKEpQgjNQnH-8">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="620" y="1440" as="sourcePoint" />
-            <mxPoint x="650" y="1400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nMPs5wifsIKEpQgjNQnH-53" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;显示未查询到订单&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
@@ -274,9 +247,9 @@
         <mxCell id="nMPs5wifsIKEpQgjNQnH-59" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;房型不可用&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="485" y="860" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nMPs5wifsIKEpQgjNQnH-60" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;返回替代房型建议&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" source="nMPs5wifsIKEpQgjNQnH-8">
+        <mxCell id="nMPs5wifsIKEpQgjNQnH-60" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;返回替代房型建议&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="520" y="910" as="sourcePoint" />
+            <mxPoint x="610" y="910" as="sourcePoint" />
             <mxPoint x="440" y="910" as="targetPoint" />
           </mxGeometry>
         </mxCell>
