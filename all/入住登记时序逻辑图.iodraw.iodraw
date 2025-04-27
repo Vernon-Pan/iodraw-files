@@ -339,8 +339,8 @@
             <mxPoint x="890" y="1350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9N2ny8L-kPAaRB6rVlP5-105" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;房间清扫完成&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="780" y="1280" width="120" height="30" as="geometry" />
+        <mxCell id="9N2ny8L-kPAaRB6rVlP5-105" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;更新状态为空闲&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="755" y="1320" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
