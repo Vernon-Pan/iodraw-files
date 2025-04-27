@@ -337,10 +337,10 @@
         <mxCell id="9N2ny8L-kPAaRB6rVlP5-90" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;获取房间状态&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="770" y="650" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9N2ny8L-kPAaRB6rVlP5-91" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;返回更新结果&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="9N2ny8L-kPAaRB6rVlP5-91" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;返回实时房态&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="890" y="720" as="sourcePoint" />
-            <mxPoint x="620" y="720" as="targetPoint" />
+            <mxPoint x="760" y="720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
