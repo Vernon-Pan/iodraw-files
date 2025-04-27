@@ -202,14 +202,11 @@
             <mxPoint x="660" y="1480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AjGlTVtisOLkPBY74CM2-58" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1" target="AjGlTVtisOLkPBY74CM2-7">
+        <mxCell id="AjGlTVtisOLkPBY74CM2-58" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="670" y="1510" as="sourcePoint" />
-            <mxPoint x="830" y="1510" as="targetPoint" />
+            <mxPoint x="670" y="1500" as="sourcePoint" />
+            <mxPoint x="890" y="1500" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="AjGlTVtisOLkPBY74CM2-59" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;执行删除&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="740" y="1470" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AjGlTVtisOLkPBY74CM2-60" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;返回结果&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" source="AjGlTVtisOLkPBY74CM2-7">
           <mxGeometry relative="1" as="geometry">
@@ -288,6 +285,9 @@
             <mxPoint x="890" y="1400" as="sourcePoint" />
             <mxPoint x="670" y="1400" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="AjGlTVtisOLkPBY74CM2-75" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;批量更新回复状态和内容&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="690" y="1470" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
