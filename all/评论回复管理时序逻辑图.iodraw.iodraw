@@ -289,6 +289,9 @@
         <mxCell id="AjGlTVtisOLkPBY74CM2-75" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;单条更新回复状态和内容&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="690" y="1470" width="200" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="AjGlTVtisOLkPBY74CM2-76" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;选择模板/输入内容&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1430" width="160" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
