@@ -238,11 +238,14 @@
             <mxPoint x="260" y="1360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nMPs5wifsIKEpQgjNQnH-84" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="nMPs5wifsIKEpQgjNQnH-84" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1" target="nMPs5wifsIKEpQgjNQnH-3">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="260" y="1400" as="sourcePoint" />
             <mxPoint x="420" y="1400" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="nMPs5wifsIKEpQgjNQnH-85" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;修改信息并提交&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1370" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
