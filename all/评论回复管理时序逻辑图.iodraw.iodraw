@@ -334,8 +334,8 @@
             <mxPoint x="660" y="1654" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AjGlTVtisOLkPBY74CM2-88" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;更新/插入模板记录&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="720" y="1610" width="160" height="30" as="geometry" />
+        <mxCell id="AjGlTVtisOLkPBY74CM2-88" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;删除模板记录&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="730" y="1650" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
