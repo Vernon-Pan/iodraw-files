@@ -325,8 +325,8 @@
         <mxCell id="9N2ny8L-kPAaRB6rVlP5-87" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="750" y="630" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="9N2ny8L-kPAaRB6rVlP5-88" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;点击确认退房&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="305" y="790" width="120" height="30" as="geometry" />
+        <mxCell id="9N2ny8L-kPAaRB6rVlP5-88" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;发起房态检测&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="470" y="655" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
