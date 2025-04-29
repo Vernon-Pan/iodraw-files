@@ -41,7 +41,7 @@
           <mxGeometry x="510" y="460" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="H2jvQE9wgcPiWXuw-Nxy-34" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;输入金额&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" parent="1" vertex="1">
-          <mxGeometry x="570" y="735" width="110" height="40" as="geometry" />
+          <mxGeometry x="190" y="450" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="H2jvQE9wgcPiWXuw-Nxy-36" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;支付宝支付&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" parent="1" vertex="1">
           <mxGeometry x="400" y="775" width="110" height="40" as="geometry" />
