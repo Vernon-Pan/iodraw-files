@@ -58,6 +58,9 @@
         <mxCell id="-280MmASgq-nDinSC5Cw-30" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;模板管理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" parent="1" vertex="1">
           <mxGeometry x="885" y="410" width="110" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="K8l_jo3gt4O-TKdRGiTM-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-280MmASgq-nDinSC5Cw-35" target="K8l_jo3gt4O-TKdRGiTM-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-280MmASgq-nDinSC5Cw-35" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;选择多条评论&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" parent="1" vertex="1">
           <mxGeometry x="350" y="500" width="110" height="40" as="geometry" />
         </mxCell>
