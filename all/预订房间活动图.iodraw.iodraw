@@ -26,13 +26,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6MwM80KFG0n85IdUljnB-8" value="输入预定信息" style="rounded=1;whiteSpace=wrap;arcSize=34;" parent="1" vertex="1">
-          <mxGeometry x="475" y="250" width="110" height="40" as="geometry" />
+          <mxGeometry x="475" y="280" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QEwhQ4fBG29uSAG0o5iq-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6MwM80KFG0n85IdUljnB-14" target="6MwM80KFG0n85IdUljnB-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6MwM80KFG0n85IdUljnB-14" value="提交" style="rounded=1;whiteSpace=wrap;arcSize=34;" parent="1" vertex="1">
-          <mxGeometry x="475" y="320" width="110" height="40" as="geometry" />
+          <mxGeometry x="475" y="340" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QEwhQ4fBG29uSAG0o5iq-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6MwM80KFG0n85IdUljnB-20" target="QEwhQ4fBG29uSAG0o5iq-12">
           <mxGeometry relative="1" as="geometry" />
