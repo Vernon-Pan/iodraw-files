@@ -101,8 +101,10 @@
         <mxCell id="GqoWZjDL9azeMd5l6Li9-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="GqoWZjDL9azeMd5l6Li9-12" target="GqoWZjDL9azeMd5l6Li9-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GqoWZjDL9azeMd5l6Li9-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GqoWZjDL9azeMd5l6Li9-30" target="GqoWZjDL9azeMd5l6Li9-10">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="GqoWZjDL9azeMd5l6Li9-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GqoWZjDL9azeMd5l6Li9-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="521" y="650" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="GqoWZjDL9azeMd5l6Li9-30" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;扣除费用&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="475.5" y="580" width="90" height="40" as="geometry" />
