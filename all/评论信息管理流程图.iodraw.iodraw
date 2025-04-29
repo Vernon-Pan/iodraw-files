@@ -221,21 +221,21 @@
         <mxCell id="5NqmBi6R8H49br1U5m2I-336" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;编辑&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="212" y="371.51000000000005" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5NqmBi6R8H49br1U5m2I-337" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5NqmBi6R8H49br1U5m2I-338" target="5NqmBi6R8H49br1U5m2I-340">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="5NqmBi6R8H49br1U5m2I-337" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5NqmBi6R8H49br1U5m2I-338">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="127" y="474" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="5NqmBi6R8H49br1U5m2I-338" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;新增&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="72" y="376.51000000000005" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5NqmBi6R8H49br1U5m2I-339" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5NqmBi6R8H49br1U5m2I-340" target="5NqmBi6R8H49br1U5m2I-342">
+        <mxCell id="5NqmBi6R8H49br1U5m2I-339" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="5NqmBi6R8H49br1U5m2I-342">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="127" y="592" />
             </Array>
+            <mxPoint x="127" y="514" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="5NqmBi6R8H49br1U5m2I-340" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;输入名称+内容&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
-          <mxGeometry x="72" y="474.00000000000006" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5NqmBi6R8H49br1U5m2I-341" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5NqmBi6R8H49br1U5m2I-342" target="5NqmBi6R8H49br1U5m2I-294">
           <mxGeometry relative="1" as="geometry">
@@ -261,7 +261,7 @@
           <mxGeometry x="227" y="307" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5NqmBi6R8H49br1U5m2I-347" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;修改操作员信息&lt;/span&gt;" style="shape=parallelogram;html=1;strokeWidth=1;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=0;size=0.23;" vertex="1" parent="1">
-          <mxGeometry x="281.5" y="430" width="125" height="40" as="geometry" />
+          <mxGeometry x="64.5" y="476.03999999999996" width="125" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
