@@ -54,7 +54,7 @@
           <mxGeometry x="190" y="460" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="H2jvQE9wgcPiWXuw-Nxy-36" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;支付宝支付&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" parent="1" vertex="1">
-          <mxGeometry x="120" y="540" width="110" height="40" as="geometry" />
+          <mxGeometry x="73" y="540" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mU8VeqmWWSlU6xv56bTL-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H2jvQE9wgcPiWXuw-Nxy-49" target="H2jvQE9wgcPiWXuw-Nxy-51">
           <mxGeometry relative="1" as="geometry">
@@ -124,8 +124,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="427" y="563" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="390" y="665" />
-              <mxPoint x="390" y="560" />
+              <mxPoint x="440" y="665" />
+              <mxPoint x="440" y="560" />
+              <mxPoint x="427" y="560" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -137,8 +138,8 @@
         <mxCell id="mU8VeqmWWSlU6xv56bTL-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mU8VeqmWWSlU6xv56bTL-18" target="H2jvQE9wgcPiWXuw-Nxy-36">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="100" y="660" />
-              <mxPoint x="100" y="560" />
+              <mxPoint x="46" y="660" />
+              <mxPoint x="46" y="560" />
             </Array>
           </mxGeometry>
         </mxCell>
