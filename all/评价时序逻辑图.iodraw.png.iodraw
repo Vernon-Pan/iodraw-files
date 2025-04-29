@@ -239,7 +239,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="U_Tmp3cCwoYiaOWNXbAI-1" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;用户点评&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="305" y="728" width="90" height="30" as="geometry" />
+          <mxGeometry x="475" y="730" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U_Tmp3cCwoYiaOWNXbAI-2" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="270" y="760" as="sourcePoint" />
+            <mxPoint x="440" y="760" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
