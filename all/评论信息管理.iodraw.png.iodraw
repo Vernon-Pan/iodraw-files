@@ -58,12 +58,6 @@
         <mxCell id="-280MmASgq-nDinSC5Cw-30" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;模板管理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" parent="1" vertex="1">
           <mxGeometry x="885" y="410" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-280MmASgq-nDinSC5Cw-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-280MmASgq-nDinSC5Cw-35" target="-280MmASgq-nDinSC5Cw-38" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-280MmASgq-nDinSC5Cw-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-280MmASgq-nDinSC5Cw-35" target="-280MmASgq-nDinSC5Cw-43" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="-280MmASgq-nDinSC5Cw-35" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;选择多条评论&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" parent="1" vertex="1">
           <mxGeometry x="350" y="500" width="110" height="40" as="geometry" />
         </mxCell>
@@ -71,7 +65,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-280MmASgq-nDinSC5Cw-38" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;批量删除&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" parent="1" vertex="1">
-          <mxGeometry x="825" y="710" width="110" height="40" as="geometry" />
+          <mxGeometry x="445" y="630" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-280MmASgq-nDinSC5Cw-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-280MmASgq-nDinSC5Cw-43" target="-280MmASgq-nDinSC5Cw-86" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -216,6 +210,9 @@
         </mxCell>
         <mxCell id="K8l_jo3gt4O-TKdRGiTM-5" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;操作判断&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="365" y="310" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="K8l_jo3gt4O-TKdRGiTM-8" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;操作判断&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="560" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
