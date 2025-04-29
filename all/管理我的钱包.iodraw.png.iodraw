@@ -133,11 +133,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="mU8VeqmWWSlU6xv56bTL-22" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mU8VeqmWWSlU6xv56bTL-21">
-          <mxGeometry x="0.3667" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="mU8VeqmWWSlU6xv56bTL-18" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;支付成功&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="640" width="80" height="50" as="geometry" />
         </mxCell>
