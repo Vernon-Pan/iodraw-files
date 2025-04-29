@@ -53,9 +53,9 @@
           <mxGeometry x="190" y="610" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="H2jvQE9wgcPiWXuw-Nxy-49" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;更新余额明细&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" parent="1" vertex="1">
-          <mxGeometry x="200" y="740" width="110" height="40" as="geometry" />
+          <mxGeometry x="190" y="700" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="H2jvQE9wgcPiWXuw-Nxy-51" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
+        <mxCell id="H2jvQE9wgcPiWXuw-Nxy-51" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="950" y="530" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mU8VeqmWWSlU6xv56bTL-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="H2jvQE9wgcPiWXuw-Nxy-32" target="H2jvQE9wgcPiWXuw-Nxy-32">
