@@ -42,7 +42,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5NqmBi6R8H49br1U5m2I-290" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;批量回复&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="589" y="424" width="110" height="40" as="geometry" />
+          <mxGeometry x="577" y="424" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5NqmBi6R8H49br1U5m2I-291" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5NqmBi6R8H49br1U5m2I-292" target="5NqmBi6R8H49br1U5m2I-294">
           <mxGeometry relative="1" as="geometry" />
