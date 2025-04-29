@@ -89,8 +89,8 @@
         <mxCell id="q9F87xCSlOOMbdpChqxH-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="q9F87xCSlOOMbdpChqxH-50" target="q9F87xCSlOOMbdpChqxH-54" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="450" y="660" />
-              <mxPoint x="450" y="660" />
+              <mxPoint x="390" y="640" />
+              <mxPoint x="390" y="640" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -106,7 +106,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="q9F87xCSlOOMbdpChqxH-54" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;分配房间&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" parent="1" vertex="1">
-          <mxGeometry x="410" y="610" width="110" height="40" as="geometry" />
+          <mxGeometry x="420" y="640" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="q9F87xCSlOOMbdpChqxH-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="q9F87xCSlOOMbdpChqxH-60" target="q9F87xCSlOOMbdpChqxH-61" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -124,7 +124,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="q9F87xCSlOOMbdpChqxH-64" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;输入入住人数&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" parent="1" vertex="1">
-          <mxGeometry x="460" y="690" width="110" height="40" as="geometry" />
+          <mxGeometry x="610" y="760" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="q9F87xCSlOOMbdpChqxH-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="q9F87xCSlOOMbdpChqxH-66" target="q9F87xCSlOOMbdpChqxH-68" edge="1">
           <mxGeometry relative="1" as="geometry" />
