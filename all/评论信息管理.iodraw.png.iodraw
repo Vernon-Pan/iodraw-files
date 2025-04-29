@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-280MmASgq-nDinSC5Cw-2" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;点击评论信息管理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" parent="1" vertex="1">
-          <mxGeometry x="350" y="190" width="110" height="40" as="geometry" />
+          <mxGeometry x="380" y="-60" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-280MmASgq-nDinSC5Cw-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-280MmASgq-nDinSC5Cw-4" target="-280MmASgq-nDinSC5Cw-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
