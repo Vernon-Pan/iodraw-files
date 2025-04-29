@@ -187,7 +187,13 @@
           <mxGeometry x="-140" y="440" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="K8l_jo3gt4O-TKdRGiTM-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K8l_jo3gt4O-TKdRGiTM-62" target="K8l_jo3gt4O-TKdRGiTM-63">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-85" y="575" />
+              <mxPoint x="-80" y="575" />
+              <mxPoint x="-80" y="620" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="K8l_jo3gt4O-TKdRGiTM-62" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;输入名称+内容&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
           <mxGeometry x="-140" y="510" width="110" height="40" as="geometry" />
