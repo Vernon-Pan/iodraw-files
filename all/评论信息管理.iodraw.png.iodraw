@@ -67,14 +67,6 @@
         <mxCell id="-280MmASgq-nDinSC5Cw-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-280MmASgq-nDinSC5Cw-38" target="-280MmASgq-nDinSC5Cw-55" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-280MmASgq-nDinSC5Cw-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-280MmASgq-nDinSC5Cw-38" target="-280MmASgq-nDinSC5Cw-86" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="750" y="890" />
-              <mxPoint x="1285" y="890" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="-280MmASgq-nDinSC5Cw-43" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;批量回复&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" parent="1" vertex="1">
           <mxGeometry x="255" y="540" width="110" height="40" as="geometry" />
         </mxCell>
@@ -109,7 +101,7 @@
           <mxGeometry x="430" y="600" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-280MmASgq-nDinSC5Cw-58" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;更新列表&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" parent="1" vertex="1">
-          <mxGeometry x="955" y="830" width="110" height="40" as="geometry" />
+          <mxGeometry x="430" y="720" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-280MmASgq-nDinSC5Cw-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-280MmASgq-nDinSC5Cw-61" target="-280MmASgq-nDinSC5Cw-63" edge="1">
           <mxGeometry relative="1" as="geometry" />
