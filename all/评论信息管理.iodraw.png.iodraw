@@ -199,7 +199,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K8l_jo3gt4O-TKdRGiTM-65" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;修改名称+内容&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
-          <mxGeometry x="125" y="540" width="110" height="40" as="geometry" />
+          <mxGeometry x="130" y="570" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="K8l_jo3gt4O-TKdRGiTM-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K8l_jo3gt4O-TKdRGiTM-67" target="K8l_jo3gt4O-TKdRGiTM-68">
           <mxGeometry relative="1" as="geometry" />
