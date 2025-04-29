@@ -37,7 +37,7 @@
         <mxCell id="PWo7f0E4sNLE9X1GmCmb-41" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;删除&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" parent="1" vertex="1">
           <mxGeometry x="330" y="250" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PWo7f0E4sNLE9X1GmCmb-42" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="PWo7f0E4sNLE9X1GmCmb-9" target="PWo7f0E4sNLE9X1GmCmb-37" edge="1">
+        <mxCell id="PWo7f0E4sNLE9X1GmCmb-42" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="WZ_LgP6YJA_pYhYTBDwg-1" target="PWo7f0E4sNLE9X1GmCmb-37" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="590" y="190" as="sourcePoint" />
             <mxPoint x="640" y="140" as="targetPoint" />
@@ -48,9 +48,6 @@
         </mxCell>
         <mxCell id="PWo7f0E4sNLE9X1GmCmb-45" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;输入用户名/密码/个人信息&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" parent="1" vertex="1">
           <mxGeometry x="550" y="340" width="110" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="PWo7f0E4sNLE9X1GmCmb-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PWo7f0E4sNLE9X1GmCmb-37" target="PWo7f0E4sNLE9X1GmCmb-60" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PWo7f0E4sNLE9X1GmCmb-47" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;提交&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" parent="1" vertex="1">
           <mxGeometry x="970" y="220" width="110" height="40" as="geometry" />
