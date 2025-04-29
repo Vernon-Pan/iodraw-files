@@ -8,25 +8,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="U29VC_uSn6H73br2e2OY-3" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;点击退房结账&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" parent="1" vertex="1">
-          <mxGeometry x="350" y="160" width="110" height="40" as="geometry" />
+          <mxGeometry x="350" y="180" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="U29VC_uSn6H73br2e2OY-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="U29VC_uSn6H73br2e2OY-5" target="U29VC_uSn6H73br2e2OY-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="U29VC_uSn6H73br2e2OY-5" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
-          <mxGeometry x="390" y="110" width="30" height="30" as="geometry" />
+          <mxGeometry x="390" y="130" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="U29VC_uSn6H73br2e2OY-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="U29VC_uSn6H73br2e2OY-7" target="U29VC_uSn6H73br2e2OY-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="U29VC_uSn6H73br2e2OY-7" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;查询&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" parent="1" vertex="1">
-          <mxGeometry x="350" y="290" width="110" height="40" as="geometry" />
+          <mxGeometry x="350" y="300" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="U29VC_uSn6H73br2e2OY-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="U29VC_uSn6H73br2e2OY-9" target="U29VC_uSn6H73br2e2OY-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="U29VC_uSn6H73br2e2OY-9" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;输入房间号&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" parent="1" vertex="1">
-          <mxGeometry x="350" y="220" width="110" height="40" as="geometry" />
+          <mxGeometry x="350" y="250" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="U29VC_uSn6H73br2e2OY-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="U29VC_uSn6H73br2e2OY-11" edge="1">
           <mxGeometry relative="1" as="geometry">
