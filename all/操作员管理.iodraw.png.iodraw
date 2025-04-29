@@ -58,9 +58,7 @@
         <mxCell id="PWo7f0E4sNLE9X1GmCmb-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="PWo7f0E4sNLE9X1GmCmb-53" target="PWo7f0E4sNLE9X1GmCmb-47" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="745" y="420" />
-              <mxPoint x="740" y="420" />
-              <mxPoint x="740" y="440" />
+              <mxPoint x="745" y="440" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -88,7 +86,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PWo7f0E4sNLE9X1GmCmb-60" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;刷新&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" parent="1" vertex="1">
-          <mxGeometry x="510" y="500" width="110" height="40" as="geometry" />
+          <mxGeometry x="510" y="480" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PWo7f0E4sNLE9X1GmCmb-63" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="700" y="560" width="30" height="30" as="geometry" />
