@@ -131,7 +131,7 @@
           <mxGeometry x="370" y="710" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6k_kvNG0_xFtDJQTgVQt-32" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;手机号/姓名&lt;/span&gt;" style="shape=parallelogram;html=1;strokeWidth=1;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=0;size=0.23;" vertex="1" parent="1">
-          <mxGeometry x="475" y="100" width="125" height="40" as="geometry" />
+          <mxGeometry x="472.5" y="100" width="125" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
