@@ -4,6 +4,135 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="6k_kvNG0_xFtDJQTgVQt-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6k_kvNG0_xFtDJQTgVQt-2" target="6k_kvNG0_xFtDJQTgVQt-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6k_kvNG0_xFtDJQTgVQt-2" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;点击管理我的钱包&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=48;" vertex="1" parent="1">
+          <mxGeometry x="500" y="230" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6k_kvNG0_xFtDJQTgVQt-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6k_kvNG0_xFtDJQTgVQt-4" target="6k_kvNG0_xFtDJQTgVQt-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6k_kvNG0_xFtDJQTgVQt-4" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;输入金额&lt;/span&gt;" style="shape=parallelogram;html=1;strokeWidth=1;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=0;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="350" y="420" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6k_kvNG0_xFtDJQTgVQt-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6k_kvNG0_xFtDJQTgVQt-7" target="6k_kvNG0_xFtDJQTgVQt-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6k_kvNG0_xFtDJQTgVQt-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6k_kvNG0_xFtDJQTgVQt-7" target="6k_kvNG0_xFtDJQTgVQt-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6k_kvNG0_xFtDJQTgVQt-7" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;判断&lt;/span&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="495" y="300" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6k_kvNG0_xFtDJQTgVQt-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6k_kvNG0_xFtDJQTgVQt-9" target="6k_kvNG0_xFtDJQTgVQt-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6k_kvNG0_xFtDJQTgVQt-9" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;余额明细&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="360" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6k_kvNG0_xFtDJQTgVQt-10" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;结束&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=48;" vertex="1" parent="1">
+          <mxGeometry x="540" y="770" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6k_kvNG0_xFtDJQTgVQt-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="6k_kvNG0_xFtDJQTgVQt-10" target="6k_kvNG0_xFtDJQTgVQt-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6k_kvNG0_xFtDJQTgVQt-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6k_kvNG0_xFtDJQTgVQt-13" target="6k_kvNG0_xFtDJQTgVQt-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6k_kvNG0_xFtDJQTgVQt-13" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;充值&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="360" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6k_kvNG0_xFtDJQTgVQt-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6k_kvNG0_xFtDJQTgVQt-16" target="6k_kvNG0_xFtDJQTgVQt-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="325" y="505" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6k_kvNG0_xFtDJQTgVQt-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6k_kvNG0_xFtDJQTgVQt-16" target="6k_kvNG0_xFtDJQTgVQt-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="485" y="505" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6k_kvNG0_xFtDJQTgVQt-16" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;支付方式&lt;/span&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="355" y="480" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6k_kvNG0_xFtDJQTgVQt-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6k_kvNG0_xFtDJQTgVQt-18" target="6k_kvNG0_xFtDJQTgVQt-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="405" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6k_kvNG0_xFtDJQTgVQt-18" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;微信&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="550" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6k_kvNG0_xFtDJQTgVQt-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6k_kvNG0_xFtDJQTgVQt-20" target="6k_kvNG0_xFtDJQTgVQt-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="405" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6k_kvNG0_xFtDJQTgVQt-20" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;支付宝&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="550" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6k_kvNG0_xFtDJQTgVQt-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6k_kvNG0_xFtDJQTgVQt-27" target="6k_kvNG0_xFtDJQTgVQt-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="260" y="655" />
+              <mxPoint x="260" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6k_kvNG0_xFtDJQTgVQt-22" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;No&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6k_kvNG0_xFtDJQTgVQt-21">
+          <mxGeometry x="-0.438" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6k_kvNG0_xFtDJQTgVQt-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6k_kvNG0_xFtDJQTgVQt-27" target="6k_kvNG0_xFtDJQTgVQt-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="550" y="655" />
+              <mxPoint x="550" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6k_kvNG0_xFtDJQTgVQt-24" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;No&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6k_kvNG0_xFtDJQTgVQt-23">
+          <mxGeometry x="-0.442" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6k_kvNG0_xFtDJQTgVQt-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6k_kvNG0_xFtDJQTgVQt-27" target="6k_kvNG0_xFtDJQTgVQt-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6k_kvNG0_xFtDJQTgVQt-26" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Yes&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6k_kvNG0_xFtDJQTgVQt-25">
+          <mxGeometry x="-0.1889" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6k_kvNG0_xFtDJQTgVQt-27" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;支付成功&lt;/span&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="355" y="630" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6k_kvNG0_xFtDJQTgVQt-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6k_kvNG0_xFtDJQTgVQt-29" target="6k_kvNG0_xFtDJQTgVQt-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="695" y="600" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="695" y="740" />
+              <mxPoint x="585" y="740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6k_kvNG0_xFtDJQTgVQt-29" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;查看余额明细&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="480" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6k_kvNG0_xFtDJQTgVQt-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6k_kvNG0_xFtDJQTgVQt-31" target="6k_kvNG0_xFtDJQTgVQt-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6k_kvNG0_xFtDJQTgVQt-31" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;更新余额明细&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="720" width="90" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
