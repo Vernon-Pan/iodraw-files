@@ -60,7 +60,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-280MmASgq-nDinSC5Cw-58" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;更新列表&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" parent="1" vertex="1">
-          <mxGeometry x="397" y="534" width="110" height="40" as="geometry" />
+          <mxGeometry x="397" y="612.0699999999999" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-280MmASgq-nDinSC5Cw-73" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;查看历史回复&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" parent="1" vertex="1">
           <mxGeometry x="697" y="382" width="110" height="40" as="geometry" />
@@ -241,7 +241,7 @@
         <mxCell id="K8l_jo3gt4O-TKdRGiTM-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="K8l_jo3gt4O-TKdRGiTM-62" target="K8l_jo3gt4O-TKdRGiTM-63">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="127" y="531.51" />
+              <mxPoint x="127" y="592" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -262,7 +262,7 @@
         <mxCell id="K8l_jo3gt4O-TKdRGiTM-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="K8l_jo3gt4O-TKdRGiTM-65" target="K8l_jo3gt4O-TKdRGiTM-63">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="267" y="531.51" />
+              <mxPoint x="267" y="592" />
             </Array>
           </mxGeometry>
         </mxCell>
