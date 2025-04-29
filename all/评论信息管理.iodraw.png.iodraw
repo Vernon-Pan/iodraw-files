@@ -41,7 +41,11 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K8l_jo3gt4O-TKdRGiTM-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-280MmASgq-nDinSC5Cw-43" target="-280MmASgq-nDinSC5Cw-86">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="644" y="532" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="-280MmASgq-nDinSC5Cw-43" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;批量回复&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" parent="1" vertex="1">
           <mxGeometry x="589" y="424" width="110" height="40" as="geometry" />
@@ -80,7 +84,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-280MmASgq-nDinSC5Cw-82" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;自定义回复&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" parent="1" vertex="1">
-          <mxGeometry x="1005" y="457" width="110" height="40" as="geometry" />
+          <mxGeometry x="1005" y="454" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-280MmASgq-nDinSC5Cw-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="-280MmASgq-nDinSC5Cw-84" target="-280MmASgq-nDinSC5Cw-89" edge="1">
           <mxGeometry relative="1" as="geometry" />
