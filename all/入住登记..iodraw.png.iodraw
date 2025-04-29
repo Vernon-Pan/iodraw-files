@@ -104,8 +104,10 @@
         <mxCell id="q9F87xCSlOOMbdpChqxH-50" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;预订房型可用性&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=0;" parent="1" vertex="1">
           <mxGeometry x="255" y="600" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="q9F87xCSlOOMbdpChqxH-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="q9F87xCSlOOMbdpChqxH-54" target="q9F87xCSlOOMbdpChqxH-64" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="q9F87xCSlOOMbdpChqxH-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="q9F87xCSlOOMbdpChqxH-54" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="365" y="810" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="q9F87xCSlOOMbdpChqxH-54" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;分配房间&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" parent="1" vertex="1">
           <mxGeometry x="310" y="747" width="110" height="40" as="geometry" />
@@ -122,11 +124,10 @@
         <mxCell id="q9F87xCSlOOMbdpChqxH-61" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;选择其它空余房型&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" parent="1" vertex="1">
           <mxGeometry x="140" y="747" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="q9F87xCSlOOMbdpChqxH-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="q9F87xCSlOOMbdpChqxH-64" target="q9F87xCSlOOMbdpChqxH-66" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="q9F87xCSlOOMbdpChqxH-64" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;输入入住人信息&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" parent="1" vertex="1">
-          <mxGeometry x="310" y="810" width="110" height="40" as="geometry" />
+        <mxCell id="q9F87xCSlOOMbdpChqxH-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="q9F87xCSlOOMbdpChqxH-66" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="365" y="850" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="q9F87xCSlOOMbdpChqxH-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="q9F87xCSlOOMbdpChqxH-66" target="q9F87xCSlOOMbdpChqxH-68" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -140,7 +141,11 @@
           <mxGeometry x="310" y="880" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="L0kjJuQg5MDPIyN9CQQj-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="q9F87xCSlOOMbdpChqxH-68" target="q9F87xCSlOOMbdpChqxH-30">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="365" y="1055" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="q9F87xCSlOOMbdpChqxH-68" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;将房间状态改为“已入住”&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" parent="1" vertex="1">
           <mxGeometry x="310" y="940" width="110" height="40" as="geometry" />
