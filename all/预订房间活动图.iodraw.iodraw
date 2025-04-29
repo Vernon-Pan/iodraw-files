@@ -116,6 +116,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="QEwhQ4fBG29uSAG0o5iq-16" value="余额不足" style="rounded=1;whiteSpace=wrap;arcSize=34;" vertex="1" parent="1">
+          <mxGeometry x="400" y="850" width="110" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
