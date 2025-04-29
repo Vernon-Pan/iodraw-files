@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="6MwM80KFG0n85IdUljnB-3" value="登录" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="220" y="300" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="6MwM80KFG0n85IdUljnB-4" value="查看酒店客房" style="rounded=1;whiteSpace=wrap;arcSize=34;" parent="1" vertex="1">
           <mxGeometry x="475" y="130" width="110" height="40" as="geometry" />
         </mxCell>
@@ -34,17 +31,18 @@
         <mxCell id="6MwM80KFG0n85IdUljnB-14" value="提交" style="rounded=1;whiteSpace=wrap;arcSize=34;" parent="1" vertex="1">
           <mxGeometry x="475" y="320" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6MwM80KFG0n85IdUljnB-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;" parent="1" source="6MwM80KFG0n85IdUljnB-16" target="6MwM80KFG0n85IdUljnB-18" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="6MwM80KFG0n85IdUljnB-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;" parent="1" source="6MwM80KFG0n85IdUljnB-16" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="920" y="640" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6MwM80KFG0n85IdUljnB-16" value="我的订单" style="rounded=1;whiteSpace=wrap;arcSize=34;" parent="1" vertex="1">
           <mxGeometry x="475" y="380" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6MwM80KFG0n85IdUljnB-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;" parent="1" source="6MwM80KFG0n85IdUljnB-18" target="6MwM80KFG0n85IdUljnB-24" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="6MwM80KFG0n85IdUljnB-18" value="未付款订单" style="rounded=1;whiteSpace=wrap;arcSize=34;" parent="1" vertex="1">
-          <mxGeometry x="865" y="640" width="110" height="40" as="geometry" />
+        <mxCell id="6MwM80KFG0n85IdUljnB-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;" parent="1" target="6MwM80KFG0n85IdUljnB-24" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="920" y="680" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6MwM80KFG0n85IdUljnB-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;" parent="1" source="6MwM80KFG0n85IdUljnB-20" target="6MwM80KFG0n85IdUljnB-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
