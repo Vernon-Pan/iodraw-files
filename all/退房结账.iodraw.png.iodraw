@@ -37,7 +37,7 @@
         <mxCell id="U29VC_uSn6H73br2e2OY-12" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="610" y="445" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="U29VC_uSn6H73br2e2OY-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="U29VC_uSn6H73br2e2OY-11" edge="1">
+        <mxCell id="U29VC_uSn6H73br2e2OY-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="U29VC_uSn6H73br2e2OY-17" target="U29VC_uSn6H73br2e2OY-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="355" y="390" as="sourcePoint" />
           </mxGeometry>
@@ -47,7 +47,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U29VC_uSn6H73br2e2OY-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="U29VC_uSn6H73br2e2OY-19" edge="1">
+        <mxCell id="U29VC_uSn6H73br2e2OY-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="U29VC_uSn6H73br2e2OY-17" target="U29VC_uSn6H73br2e2OY-19" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="435" y="390" as="sourcePoint" />
           </mxGeometry>
