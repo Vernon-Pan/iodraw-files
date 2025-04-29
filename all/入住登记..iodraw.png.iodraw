@@ -138,16 +138,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="q9F87xCSlOOMbdpChqxH-68" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;将房间状态改为“已入住”&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" parent="1" vertex="1">
-          <mxGeometry x="310" y="940" width="110" height="40" as="geometry" />
+          <mxGeometry x="320" y="880" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="L0kjJuQg5MDPIyN9CQQj-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="q9F87xCSlOOMbdpChqxH-30" target="q9F87xCSlOOMbdpChqxH-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="L0kjJuQg5MDPIyN9CQQj-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="L0kjJuQg5MDPIyN9CQQj-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="q9F87xCSlOOMbdpChqxH-54" target="q9F87xCSlOOMbdpChqxH-66">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="420" y="740" as="sourcePoint" />
             <mxPoint x="470" y="690" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="L0kjJuQg5MDPIyN9CQQj-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="q9F87xCSlOOMbdpChqxH-30" target="q9F87xCSlOOMbdpChqxH-30">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
