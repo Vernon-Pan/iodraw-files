@@ -45,8 +45,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="MQDed35sNMzRfHW9_dm3-13" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;查看评价信息&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="630" y="470" width="90" height="40" as="geometry" />
+        <mxCell id="MQDed35sNMzRfHW9_dm3-13" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;余额明细&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="360" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MQDed35sNMzRfHW9_dm3-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MQDed35sNMzRfHW9_dm3-15" target="MQDed35sNMzRfHW9_dm3-17">
           <mxGeometry relative="1" as="geometry" />
@@ -66,8 +66,8 @@
         <mxCell id="MQDed35sNMzRfHW9_dm3-19" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;结束&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=48;" vertex="1" parent="1">
           <mxGeometry x="380" y="780" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MQDed35sNMzRfHW9_dm3-22" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;查看评价信息&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="290" y="394" width="90" height="40" as="geometry" />
+        <mxCell id="MQDed35sNMzRfHW9_dm3-22" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;充值&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="374" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
