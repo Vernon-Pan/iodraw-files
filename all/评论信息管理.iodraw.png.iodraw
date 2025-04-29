@@ -189,12 +189,8 @@
         <mxCell id="K8l_jo3gt4O-TKdRGiTM-54" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;模板管理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
           <mxGeometry x="212" y="252" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="K8l_jo3gt4O-TKdRGiTM-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="K8l_jo3gt4O-TKdRGiTM-55" target="-280MmASgq-nDinSC5Cw-58">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="392" y="602" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="K8l_jo3gt4O-TKdRGiTM-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="K8l_jo3gt4O-TKdRGiTM-55" target="-280MmASgq-nDinSC5Cw-55">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K8l_jo3gt4O-TKdRGiTM-55" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;删除&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
           <mxGeometry x="332" y="352" width="110" height="40" as="geometry" />
