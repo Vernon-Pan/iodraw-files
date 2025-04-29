@@ -146,7 +146,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-280MmASgq-nDinSC5Cw-79" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;模板回复&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" parent="1" vertex="1">
-          <mxGeometry x="1045" y="260" width="110" height="40" as="geometry" />
+          <mxGeometry x="870" y="610" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-280MmASgq-nDinSC5Cw-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-280MmASgq-nDinSC5Cw-82" target="-280MmASgq-nDinSC5Cw-84" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -158,7 +158,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-280MmASgq-nDinSC5Cw-84" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;输入内容&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" parent="1" vertex="1">
-          <mxGeometry x="1185" y="130" width="110" height="40" as="geometry" />
+          <mxGeometry x="1180" y="80" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-280MmASgq-nDinSC5Cw-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="-280MmASgq-nDinSC5Cw-86" target="-280MmASgq-nDinSC5Cw-89" edge="1">
           <mxGeometry relative="1" as="geometry" />
