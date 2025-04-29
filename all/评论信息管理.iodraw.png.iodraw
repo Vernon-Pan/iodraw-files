@@ -41,7 +41,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-280MmASgq-nDinSC5Cw-43" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;批量回复&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" parent="1" vertex="1">
-          <mxGeometry x="591" y="447" width="110" height="40" as="geometry" />
+          <mxGeometry x="589" y="424" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-280MmASgq-nDinSC5Cw-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-280MmASgq-nDinSC5Cw-55" target="-280MmASgq-nDinSC5Cw-58" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -53,7 +53,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-280MmASgq-nDinSC5Cw-58" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;更新列表&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" parent="1" vertex="1">
-          <mxGeometry x="397" y="564" width="110" height="40" as="geometry" />
+          <mxGeometry x="407" y="542" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-280MmASgq-nDinSC5Cw-73" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;查看历史回复&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" parent="1" vertex="1">
           <mxGeometry x="697" y="382" width="110" height="40" as="geometry" />
@@ -122,9 +122,7 @@
         <mxCell id="K8l_jo3gt4O-TKdRGiTM-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K8l_jo3gt4O-TKdRGiTM-8" target="-280MmASgq-nDinSC5Cw-43">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="607" y="392" />
-              <mxPoint x="607" y="402" />
-              <mxPoint x="640" y="402" />
+              <mxPoint x="640" y="392" />
             </Array>
           </mxGeometry>
         </mxCell>
