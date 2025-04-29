@@ -94,11 +94,6 @@
         <mxCell id="8sem5zesWnYCJtxFnJYL-25" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;显示操作员信息&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="489" y="145" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8sem5zesWnYCJtxFnJYL-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8sem5zesWnYCJtxFnJYL-11">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="397" y="347" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="8sem5zesWnYCJtxFnJYL-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8sem5zesWnYCJtxFnJYL-28" target="8sem5zesWnYCJtxFnJYL-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -122,6 +117,9 @@
         </mxCell>
         <mxCell id="8sem5zesWnYCJtxFnJYL-35" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;删除&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="703" y="279" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8sem5zesWnYCJtxFnJYL-38" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;删除&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="713" y="289" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
