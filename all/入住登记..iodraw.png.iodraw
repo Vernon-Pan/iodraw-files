@@ -86,7 +86,7 @@
         <mxCell id="q9F87xCSlOOMbdpChqxH-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="q9F87xCSlOOMbdpChqxH-50" target="q9F87xCSlOOMbdpChqxH-54" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="611" y="458" />
+              <mxPoint x="611" y="414" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -105,7 +105,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="q9F87xCSlOOMbdpChqxH-60" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;更换房型&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" parent="1" vertex="1">
-          <mxGeometry x="386" y="544" width="110" height="40" as="geometry" />
+          <mxGeometry x="383" y="447" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="q9F87xCSlOOMbdpChqxH-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="q9F87xCSlOOMbdpChqxH-61" target="q9F87xCSlOOMbdpChqxH-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
