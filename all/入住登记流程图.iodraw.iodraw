@@ -38,7 +38,7 @@
           <mxGeometry x="640" y="320" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6k_kvNG0_xFtDJQTgVQt-10" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;结束&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=48;" vertex="1" parent="1">
-          <mxGeometry x="530" y="680" width="90" height="40" as="geometry" />
+          <mxGeometry x="650" y="690" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6k_kvNG0_xFtDJQTgVQt-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="6k_kvNG0_xFtDJQTgVQt-10" target="6k_kvNG0_xFtDJQTgVQt-10">
           <mxGeometry relative="1" as="geometry" />
@@ -103,7 +103,12 @@
           <mxGeometry x="640" y="440" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6k_kvNG0_xFtDJQTgVQt-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6k_kvNG0_xFtDJQTgVQt-31" target="6k_kvNG0_xFtDJQTgVQt-10">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="600" />
+              <mxPoint x="575" y="600" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="6k_kvNG0_xFtDJQTgVQt-31" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;办理入住&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="355" y="550" width="90" height="40" as="geometry" />
