@@ -119,7 +119,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5NqmBi6R8H49br1U5m2I-310" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;更新回复状态&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="556" y="600.9999999999999" width="110" height="40" as="geometry" />
+          <mxGeometry x="655" y="645.9999999999999" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5NqmBi6R8H49br1U5m2I-312" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5NqmBi6R8H49br1U5m2I-314" target="5NqmBi6R8H49br1U5m2I-285">
           <mxGeometry relative="1" as="geometry" />
