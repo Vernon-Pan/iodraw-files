@@ -17,7 +17,7 @@
           <mxGeometry x="1260" y="-295" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IczXHIDUsj1Bio_0H8AM-5" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;服务评分&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;direction=east;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1162.5" y="-305" width="80" height="40" as="geometry" />
+          <mxGeometry x="1169" y="-305" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IczXHIDUsj1Bio_0H8AM-6" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;用户ID&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;direction=east;" parent="1" vertex="1">
           <mxGeometry x="1400" y="-130" width="80" height="40" as="geometry" />
@@ -53,13 +53,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IczXHIDUsj1Bio_0H8AM-12" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;位置评分&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;direction=east;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1002.5" y="-285" width="80" height="40" as="geometry" />
+          <mxGeometry x="990" y="-255" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IczXHIDUsj1Bio_0H8AM-13" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;设施评分&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;direction=east;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1082.5" y="-295" width="80" height="40" as="geometry" />
+          <mxGeometry x="1082.5" y="-305" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IczXHIDUsj1Bio_0H8AM-14" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;点评内容&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;direction=east;align=center;" parent="1" vertex="1">
-          <mxGeometry x="940" y="-235" width="80" height="40" as="geometry" />
+          <mxGeometry x="970" y="-200" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IczXHIDUsj1Bio_0H8AM-15" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="IczXHIDUsj1Bio_0H8AM-1" target="IczXHIDUsj1Bio_0H8AM-13" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -80,7 +80,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IczXHIDUsj1Bio_0H8AM-18" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;用户ID&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;direction=east;" parent="1" vertex="1">
-          <mxGeometry x="940" y="-130" width="80" height="40" as="geometry" />
+          <mxGeometry x="960" y="-130" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IczXHIDUsj1Bio_0H8AM-20" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="IczXHIDUsj1Bio_0H8AM-1" target="IczXHIDUsj1Bio_0H8AM-18" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
