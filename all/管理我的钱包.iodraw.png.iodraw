@@ -23,7 +23,7 @@
           <mxGeometry x="390" y="130" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="H2jvQE9wgcPiWXuw-Nxy-21" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;微信支付&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" parent="1" vertex="1">
-          <mxGeometry x="260" y="525" width="110" height="40" as="geometry" />
+          <mxGeometry x="260" y="540" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="H2jvQE9wgcPiWXuw-Nxy-24" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;管理我的钱包&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" parent="1" vertex="1">
           <mxGeometry x="350" y="310" width="110" height="40" as="geometry" />
@@ -84,6 +84,9 @@
             <mxPoint x="510" y="350" as="sourcePoint" />
             <mxPoint x="560" y="300" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="mU8VeqmWWSlU6xv56bTL-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="360" y="380" width="110" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
