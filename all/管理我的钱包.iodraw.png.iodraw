@@ -23,7 +23,7 @@
           <mxGeometry x="390" y="130" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="H2jvQE9wgcPiWXuw-Nxy-21" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;微信支付&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" parent="1" vertex="1">
-          <mxGeometry x="400" y="695" width="110" height="40" as="geometry" />
+          <mxGeometry x="270" y="530" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="H2jvQE9wgcPiWXuw-Nxy-24" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;管理我的钱包&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" parent="1" vertex="1">
           <mxGeometry x="350" y="310" width="110" height="40" as="geometry" />
@@ -44,7 +44,7 @@
           <mxGeometry x="190" y="450" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="H2jvQE9wgcPiWXuw-Nxy-36" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;支付宝支付&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" parent="1" vertex="1">
-          <mxGeometry x="400" y="775" width="110" height="40" as="geometry" />
+          <mxGeometry x="130" y="530" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="H2jvQE9wgcPiWXuw-Nxy-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="H2jvQE9wgcPiWXuw-Nxy-42" target="H2jvQE9wgcPiWXuw-Nxy-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
