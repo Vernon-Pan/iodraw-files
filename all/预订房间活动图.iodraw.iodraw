@@ -28,7 +28,7 @@
         <mxCell id="6MwM80KFG0n85IdUljnB-8" value="输入预定信息" style="rounded=1;whiteSpace=wrap;arcSize=34;" parent="1" vertex="1">
           <mxGeometry x="475" y="250" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QEwhQ4fBG29uSAG0o5iq-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6MwM80KFG0n85IdUljnB-14" target="6MwM80KFG0n85IdUljnB-20">
+        <mxCell id="QEwhQ4fBG29uSAG0o5iq-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6MwM80KFG0n85IdUljnB-14" target="6MwM80KFG0n85IdUljnB-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6MwM80KFG0n85IdUljnB-14" value="提交" style="rounded=1;whiteSpace=wrap;arcSize=34;" parent="1" vertex="1">
@@ -36,14 +36,14 @@
         </mxCell>
         <mxCell id="6MwM80KFG0n85IdUljnB-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;" parent="1" source="6MwM80KFG0n85IdUljnB-16" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="530" y="460" as="targetPoint" />
+            <mxPoint x="515" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6MwM80KFG0n85IdUljnB-16" value="我的订单" style="rounded=1;whiteSpace=wrap;arcSize=34;" parent="1" vertex="1">
-          <mxGeometry x="475" y="380" width="110" height="40" as="geometry" />
+          <mxGeometry x="460" y="450" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6MwM80KFG0n85IdUljnB-20" value="立即付款" style="rounded=1;whiteSpace=wrap;arcSize=34;" parent="1" vertex="1">
-          <mxGeometry x="475" y="460" width="110" height="40" as="geometry" />
+          <mxGeometry x="460" y="530" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6MwM80KFG0n85IdUljnB-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;" parent="1" source="6MwM80KFG0n85IdUljnB-22" target="6MwM80KFG0n85IdUljnB-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
