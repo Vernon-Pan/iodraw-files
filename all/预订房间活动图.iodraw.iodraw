@@ -32,7 +32,7 @@
           <mxGeometry x="475" y="250" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6MwM80KFG0n85IdUljnB-14" value="提交" style="rounded=1;whiteSpace=wrap;arcSize=34;" parent="1" vertex="1">
-          <mxGeometry x="475" y="350" width="110" height="40" as="geometry" />
+          <mxGeometry x="475" y="320" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6MwM80KFG0n85IdUljnB-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;" parent="1" source="6MwM80KFG0n85IdUljnB-16" target="6MwM80KFG0n85IdUljnB-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -128,7 +128,7 @@
           <mxGeometry x="430" y="575" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6MwM80KFG0n85IdUljnB-61" value="" style="ellipse;shape=startState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
-          <mxGeometry x="235" y="150" width="30" height="30" as="geometry" />
+          <mxGeometry x="515" y="80" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
