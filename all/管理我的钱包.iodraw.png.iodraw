@@ -40,7 +40,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="H2jvQE9wgcPiWXuw-Nxy-25" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;查看当前余额&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" parent="1" vertex="1">
-          <mxGeometry x="600" y="255" width="110" height="40" as="geometry" />
+          <mxGeometry x="350" y="270" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="H2jvQE9wgcPiWXuw-Nxy-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="H2jvQE9wgcPiWXuw-Nxy-30" target="H2jvQE9wgcPiWXuw-Nxy-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -112,16 +112,7 @@
           <mxGeometry x="400" y="585" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="H2jvQE9wgcPiWXuw-Nxy-51" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
-          <mxGeometry x="510" y="265" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="H2jvQE9wgcPiWXuw-Nxy-53" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="H2jvQE9wgcPiWXuw-Nxy-49" target="H2jvQE9wgcPiWXuw-Nxy-51" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="460" y="340" as="sourcePoint" />
-            <mxPoint x="510" y="290" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="435" y="280" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry x="950" y="530" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
