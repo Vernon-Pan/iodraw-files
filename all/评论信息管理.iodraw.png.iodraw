@@ -16,7 +16,7 @@
         <mxCell id="-280MmASgq-nDinSC5Cw-4" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="390" y="140" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-280MmASgq-nDinSC5Cw-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="-280MmASgq-nDinSC5Cw-5" edge="1">
+        <mxCell id="-280MmASgq-nDinSC5Cw-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="K8l_jo3gt4O-TKdRGiTM-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="50" y="90.00000000000023" as="sourcePoint" />
             <mxPoint x="220" y="350" as="targetPoint" />
@@ -44,7 +44,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-280MmASgq-nDinSC5Cw-29" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;单条评论操作&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" parent="1" vertex="1">
-          <mxGeometry x="590" y="365" width="110" height="40" as="geometry" />
+          <mxGeometry x="550" y="335" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-280MmASgq-nDinSC5Cw-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-280MmASgq-nDinSC5Cw-30" target="-280MmASgq-nDinSC5Cw-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
