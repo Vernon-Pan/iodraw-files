@@ -11,10 +11,14 @@
           <mxGeometry x="500" y="230" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MQDed35sNMzRfHW9_dm3-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MQDed35sNMzRfHW9_dm3-5" target="MQDed35sNMzRfHW9_dm3-15">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="640" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="MQDed35sNMzRfHW9_dm3-5" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;填写评价信息&lt;/span&gt;" style="shape=parallelogram;html=1;strokeWidth=1;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=0;size=0.23;" vertex="1" parent="1">
-          <mxGeometry x="240" y="530" width="110" height="40" as="geometry" />
+          <mxGeometry x="360" y="440" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MQDed35sNMzRfHW9_dm3-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MQDed35sNMzRfHW9_dm3-11" target="MQDed35sNMzRfHW9_dm3-13">
           <mxGeometry relative="1" as="geometry" />
