@@ -106,13 +106,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="q9F87xCSlOOMbdpChqxH-54" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;分配房间&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" parent="1" vertex="1">
-          <mxGeometry x="465" y="640" width="110" height="40" as="geometry" />
+          <mxGeometry x="410" y="610" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="q9F87xCSlOOMbdpChqxH-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="q9F87xCSlOOMbdpChqxH-60" target="q9F87xCSlOOMbdpChqxH-61" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="q9F87xCSlOOMbdpChqxH-60" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;更换房型&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" parent="1" vertex="1">
-          <mxGeometry x="280" y="760" width="110" height="40" as="geometry" />
+          <mxGeometry x="130" y="710" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="q9F87xCSlOOMbdpChqxH-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="q9F87xCSlOOMbdpChqxH-61" target="q9F87xCSlOOMbdpChqxH-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
