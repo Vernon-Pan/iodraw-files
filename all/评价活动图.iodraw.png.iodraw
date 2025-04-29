@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="IeCUnq5MaQmrZLW1ni2W-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;登录&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="305" y="295" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="IeCUnq5MaQmrZLW1ni2W-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IeCUnq5MaQmrZLW1ni2W-11" target="IeCUnq5MaQmrZLW1ni2W-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
