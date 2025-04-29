@@ -104,13 +104,8 @@
         <mxCell id="q9F87xCSlOOMbdpChqxH-50" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;预订房型可用性&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=0;" parent="1" vertex="1">
           <mxGeometry x="255" y="600" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="q9F87xCSlOOMbdpChqxH-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="q9F87xCSlOOMbdpChqxH-54" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="365" y="810" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="q9F87xCSlOOMbdpChqxH-54" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;分配房间&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" parent="1" vertex="1">
-          <mxGeometry x="310" y="747" width="110" height="40" as="geometry" />
+          <mxGeometry x="310" y="747" width="110" height="43" as="geometry" />
         </mxCell>
         <mxCell id="q9F87xCSlOOMbdpChqxH-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="q9F87xCSlOOMbdpChqxH-60" target="q9F87xCSlOOMbdpChqxH-61" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -147,6 +142,12 @@
         </mxCell>
         <mxCell id="L0kjJuQg5MDPIyN9CQQj-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="q9F87xCSlOOMbdpChqxH-30" target="q9F87xCSlOOMbdpChqxH-30">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L0kjJuQg5MDPIyN9CQQj-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="740" as="sourcePoint" />
+            <mxPoint x="470" y="690" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
