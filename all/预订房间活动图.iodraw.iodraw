@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="6MwM80KFG0n85IdUljnB-4" value="查看酒店客房" style="rounded=1;whiteSpace=wrap;arcSize=34;" parent="1" vertex="1">
-          <mxGeometry x="475" y="130" width="110" height="40" as="geometry" />
+          <mxGeometry x="475" y="160" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6MwM80KFG0n85IdUljnB-5" value="" style="endArrow=classic;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6MwM80KFG0n85IdUljnB-4" target="6MwM80KFG0n85IdUljnB-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -14,7 +14,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6MwM80KFG0n85IdUljnB-6" value="选择房间预定" style="rounded=1;whiteSpace=wrap;arcSize=34;" parent="1" vertex="1">
-          <mxGeometry x="475" y="190" width="110" height="40" as="geometry" />
+          <mxGeometry x="475" y="220" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6MwM80KFG0n85IdUljnB-7" value="" style="endArrow=classic;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6MwM80KFG0n85IdUljnB-6" target="6MwM80KFG0n85IdUljnB-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -53,13 +53,10 @@
         <mxCell id="6MwM80KFG0n85IdUljnB-60" value="" style="ellipse;shape=endState;fillColor=#000000;strokeColor=#0d0d0d;" parent="1" vertex="1">
           <mxGeometry x="515" y="690" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QEwhQ4fBG29uSAG0o5iq-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="6MwM80KFG0n85IdUljnB-4">
+        <mxCell id="QEwhQ4fBG29uSAG0o5iq-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6MwM80KFG0n85IdUljnB-61" target="6MwM80KFG0n85IdUljnB-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="530" y="80" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="6MwM80KFG0n85IdUljnB-61" value="" style="ellipse;shape=startState;" parent="1" vertex="1">
-          <mxGeometry x="515" y="60" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QEwhQ4fBG29uSAG0o5iq-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="6MwM80KFG0n85IdUljnB-14" target="6MwM80KFG0n85IdUljnB-14">
           <mxGeometry relative="1" as="geometry" />
@@ -85,6 +82,9 @@
         </mxCell>
         <mxCell id="QEwhQ4fBG29uSAG0o5iq-17" value="订单状态更新为已支付" style="rounded=1;whiteSpace=wrap;arcSize=34;" vertex="1" parent="1">
           <mxGeometry x="475" y="610" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6MwM80KFG0n85IdUljnB-61" value="" style="ellipse;shape=startState;" parent="1" vertex="1">
+          <mxGeometry x="515" y="110" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
