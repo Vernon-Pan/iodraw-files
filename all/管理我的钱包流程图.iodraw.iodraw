@@ -110,14 +110,13 @@
         <mxCell id="MQDed35sNMzRfHW9_dm3-37" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;支付成功&lt;/span&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="355" y="630" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="MQDed35sNMzRfHW9_dm3-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MQDed35sNMzRfHW9_dm3-42" target="MQDed35sNMzRfHW9_dm3-44">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="MQDed35sNMzRfHW9_dm3-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MQDed35sNMzRfHW9_dm3-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="695" y="600" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="MQDed35sNMzRfHW9_dm3-42" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;查看余额明细&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="650" y="480" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="MQDed35sNMzRfHW9_dm3-44" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;查看余额明细&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="650" y="600" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
