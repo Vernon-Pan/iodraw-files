@@ -196,7 +196,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="K8l_jo3gt4O-TKdRGiTM-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="K8l_jo3gt4O-TKdRGiTM-87" target="K8l_jo3gt4O-TKdRGiTM-55">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="384" y="332" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="K8l_jo3gt4O-TKdRGiTM-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="K8l_jo3gt4O-TKdRGiTM-57">
           <mxGeometry relative="1" as="geometry">
@@ -247,7 +251,8 @@
         <mxCell id="K8l_jo3gt4O-TKdRGiTM-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="K8l_jo3gt4O-TKdRGiTM-63" target="-280MmASgq-nDinSC5Cw-58">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="193" y="554" />
+              <mxPoint x="193" y="578" />
+              <mxPoint x="397" y="578" />
             </Array>
           </mxGeometry>
         </mxCell>
