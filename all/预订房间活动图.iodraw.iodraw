@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="6MwM80KFG0n85IdUljnB-4" value="查看酒店客房" style="rounded=1;whiteSpace=wrap;arcSize=34;" parent="1" vertex="1">
+        <mxCell id="6MwM80KFG0n85IdUljnB-4" value="查看酒店客房" style="rounded=1;whiteSpace=wrap;arcSize=34;fontFamily=Helvetica;" parent="1" vertex="1">
           <mxGeometry x="475" y="160" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6MwM80KFG0n85IdUljnB-5" value="" style="endArrow=classic;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6MwM80KFG0n85IdUljnB-4" target="6MwM80KFG0n85IdUljnB-6" edge="1">
