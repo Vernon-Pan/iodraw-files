@@ -43,12 +43,6 @@
         <mxCell id="-280MmASgq-nDinSC5Cw-28" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;批量操作&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" parent="1" vertex="1">
           <mxGeometry x="350" y="374" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-280MmASgq-nDinSC5Cw-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-280MmASgq-nDinSC5Cw-29" target="-280MmASgq-nDinSC5Cw-69" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-280MmASgq-nDinSC5Cw-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-280MmASgq-nDinSC5Cw-29" target="-280MmASgq-nDinSC5Cw-71" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="-280MmASgq-nDinSC5Cw-29" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;单条评论操作&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" parent="1" vertex="1">
           <mxGeometry x="640" y="360" width="110" height="40" as="geometry" />
         </mxCell>
@@ -125,7 +119,7 @@
         <mxCell id="-280MmASgq-nDinSC5Cw-65" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;修改名称+内容&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" parent="1" vertex="1">
           <mxGeometry x="1165" y="520" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-280MmASgq-nDinSC5Cw-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-280MmASgq-nDinSC5Cw-69" target="-280MmASgq-nDinSC5Cw-73" edge="1">
+        <mxCell id="-280MmASgq-nDinSC5Cw-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-280MmASgq-nDinSC5Cw-71" target="-280MmASgq-nDinSC5Cw-73" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-280MmASgq-nDinSC5Cw-69" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;已回复&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" parent="1" vertex="1">
@@ -133,9 +127,6 @@
         </mxCell>
         <mxCell id="-280MmASgq-nDinSC5Cw-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-280MmASgq-nDinSC5Cw-71" target="-280MmASgq-nDinSC5Cw-77" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-280MmASgq-nDinSC5Cw-71" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;未回复&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" parent="1" vertex="1">
-          <mxGeometry x="825" y="200" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-280MmASgq-nDinSC5Cw-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-280MmASgq-nDinSC5Cw-73" target="-280MmASgq-nDinSC5Cw-75" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -217,6 +208,15 @@
         </mxCell>
         <mxCell id="K8l_jo3gt4O-TKdRGiTM-16" value="&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;显示筛选结果&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
           <mxGeometry x="25" y="500" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="K8l_jo3gt4O-TKdRGiTM-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-280MmASgq-nDinSC5Cw-69" target="-280MmASgq-nDinSC5Cw-71">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="530" as="sourcePoint" />
+            <mxPoint x="1020" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-280MmASgq-nDinSC5Cw-71" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;未回复&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" parent="1" vertex="1">
+          <mxGeometry x="740" y="510" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
