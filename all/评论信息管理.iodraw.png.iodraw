@@ -211,7 +211,10 @@
         <mxCell id="K8l_jo3gt4O-TKdRGiTM-5" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;操作判断&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="365" y="310" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="K8l_jo3gt4O-TKdRGiTM-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="K8l_jo3gt4O-TKdRGiTM-8" target="-280MmASgq-nDinSC5Cw-43">
+        <mxCell id="K8l_jo3gt4O-TKdRGiTM-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="K8l_jo3gt4O-TKdRGiTM-8" target="-280MmASgq-nDinSC5Cw-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K8l_jo3gt4O-TKdRGiTM-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="K8l_jo3gt4O-TKdRGiTM-8" target="-280MmASgq-nDinSC5Cw-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K8l_jo3gt4O-TKdRGiTM-8" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;操作判断&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
