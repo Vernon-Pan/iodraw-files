@@ -8,15 +8,15 @@
           <mxGeometry x="125" y="1060" width="115" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nqyMPppG7s3i3VFo_3K--2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;房型备注&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;direction=west;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-50" y="860.0000000000001" width="80" height="40" as="geometry" />
+          <mxGeometry x="-70" y="860.0000000000001" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nqyMPppG7s3i3VFo_3K--3" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;房间号码&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;direction=west;" parent="1" vertex="1">
-          <mxGeometry x="-120" y="810.0000000000001" width="80" height="40" as="geometry" />
+          <mxGeometry x="-120" y="920.0000000000001" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nqyMPppG7s3i3VFo_3K--4" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;房间类型&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;direction=west;" parent="1" vertex="1">
-          <mxGeometry x="40" y="890" width="80" height="40" as="geometry" />
+        <mxCell id="nqyMPppG7s3i3VFo_3K--4" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;房间类型&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;direction=east;" parent="1" vertex="1">
+          <mxGeometry x="20" y="827" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nqyMPppG7s3i3VFo_3K--5" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;房间类型ID&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;direction=west;align=center;" parent="1" vertex="1">
+        <mxCell id="nqyMPppG7s3i3VFo_3K--5" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;房间类型ID&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;direction=east;align=center;" parent="1" vertex="1">
           <mxGeometry x="130" y="910" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nqyMPppG7s3i3VFo_3K--6" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;房间折扣&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;direction=east;" parent="1" vertex="1">
