@@ -84,14 +84,8 @@
         <mxCell id="6MwM80KFG0n85IdUljnB-43" value="订单状态更新为已支付" style="rounded=1;whiteSpace=wrap;arcSize=34;" parent="1" vertex="1">
           <mxGeometry x="390" y="630" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6MwM80KFG0n85IdUljnB-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;" parent="1" source="6MwM80KFG0n85IdUljnB-53" target="6MwM80KFG0n85IdUljnB-57" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="6MwM80KFG0n85IdUljnB-53" value="余额不足" style="rounded=1;whiteSpace=wrap;arcSize=34;" parent="1" vertex="1">
           <mxGeometry x="390" y="840" width="110" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="6MwM80KFG0n85IdUljnB-57" value="充值余额" style="rounded=1;whiteSpace=wrap;arcSize=34;" parent="1" vertex="1">
-          <mxGeometry x="585" y="840" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6MwM80KFG0n85IdUljnB-60" value="" style="ellipse;shape=endState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="430" y="575" width="30" height="30" as="geometry" />
@@ -104,6 +98,9 @@
         </mxCell>
         <mxCell id="QEwhQ4fBG29uSAG0o5iq-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="6MwM80KFG0n85IdUljnB-14" target="6MwM80KFG0n85IdUljnB-14">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QEwhQ4fBG29uSAG0o5iq-12" value="支付成功" style="rhombus;whiteSpace=wrap;rounded=1;arcSize=0;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="415" y="720" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
