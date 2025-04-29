@@ -172,7 +172,7 @@
           <mxGeometry x="10" y="370" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="K8l_jo3gt4O-TKdRGiTM-55" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;删除&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
-          <mxGeometry x="190" y="450" width="110" height="40" as="geometry" />
+          <mxGeometry x="140" y="460" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="K8l_jo3gt4O-TKdRGiTM-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K8l_jo3gt4O-TKdRGiTM-57" target="K8l_jo3gt4O-TKdRGiTM-65">
           <mxGeometry relative="1" as="geometry" />
@@ -184,7 +184,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K8l_jo3gt4O-TKdRGiTM-59" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;新增&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
-          <mxGeometry x="-140" y="440" width="110" height="40" as="geometry" />
+          <mxGeometry x="-130" y="450" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="K8l_jo3gt4O-TKdRGiTM-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K8l_jo3gt4O-TKdRGiTM-62" target="K8l_jo3gt4O-TKdRGiTM-63">
           <mxGeometry relative="1" as="geometry">
