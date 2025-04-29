@@ -50,6 +50,11 @@
         <mxCell id="RhUvB3Qg8VGnp79-uFM3-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RhUvB3Qg8VGnp79-uFM3-18" target="RhUvB3Qg8VGnp79-uFM3-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="KPuZ0opp4o11WdT1Q0dD-1" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RhUvB3Qg8VGnp79-uFM3-25">
+          <mxGeometry x="-0.0909" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="RhUvB3Qg8VGnp79-uFM3-18" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;支付成功&lt;/span&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="495" y="500" width="100" height="50" as="geometry" />
         </mxCell>
