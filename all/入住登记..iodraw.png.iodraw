@@ -42,7 +42,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="q9F87xCSlOOMbdpChqxH-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="q9F87xCSlOOMbdpChqxH-40" edge="1">
+        <mxCell id="q9F87xCSlOOMbdpChqxH-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="q9F87xCSlOOMbdpChqxH-34" target="q9F87xCSlOOMbdpChqxH-40" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="430" y="580" as="sourcePoint" />
           </mxGeometry>
