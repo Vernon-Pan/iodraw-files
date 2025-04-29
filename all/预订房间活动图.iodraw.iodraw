@@ -8,7 +8,7 @@
           <mxGeometry x="220" y="300" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6MwM80KFG0n85IdUljnB-4" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;查看酒店客房&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" parent="1" vertex="1">
-          <mxGeometry x="320" y="270" width="110" height="40" as="geometry" />
+          <mxGeometry x="475" y="130" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6MwM80KFG0n85IdUljnB-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="6MwM80KFG0n85IdUljnB-4" target="6MwM80KFG0n85IdUljnB-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
