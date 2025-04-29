@@ -7,7 +7,7 @@
         <mxCell id="GqoWZjDL9azeMd5l6Li9-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GqoWZjDL9azeMd5l6Li9-2" target="GqoWZjDL9azeMd5l6Li9-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GqoWZjDL9azeMd5l6Li9-2" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;点击入住登记&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=48;" vertex="1" parent="1">
+        <mxCell id="GqoWZjDL9azeMd5l6Li9-2" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;点击退房结账&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=48;" vertex="1" parent="1">
           <mxGeometry x="493" y="78" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GqoWZjDL9azeMd5l6Li9-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GqoWZjDL9azeMd5l6Li9-7" target="GqoWZjDL9azeMd5l6Li9-9">
