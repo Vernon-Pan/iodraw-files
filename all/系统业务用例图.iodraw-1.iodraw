@@ -14,10 +14,10 @@
           <mxGeometry x="740" y="90" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Q1TwuoBVbDCJtwSQ9-6y-15" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;付款&lt;/span&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="960" y="160" width="70" height="30" as="geometry" />
+          <mxGeometry x="1079" y="255" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Q1TwuoBVbDCJtwSQ9-6y-20" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;订单点评&lt;/span&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1049" y="374" width="70" height="30" as="geometry" />
+          <mxGeometry x="1099" y="404" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Q1TwuoBVbDCJtwSQ9-6y-21" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;查看余额明细&lt;/span&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1079" y="500" width="90" height="40" as="geometry" />
@@ -32,7 +32,7 @@
           <mxGeometry x="980" y="630" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Q1TwuoBVbDCJtwSQ9-6y-26" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;管理我的钱包&lt;/span&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="870" y="310" width="90" height="40" as="geometry" />
+          <mxGeometry x="860" y="310" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Q1TwuoBVbDCJtwSQ9-6y-32" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;充值&lt;/span&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1100" y="550" width="90" height="40" as="geometry" />
