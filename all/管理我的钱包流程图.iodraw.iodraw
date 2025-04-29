@@ -40,7 +40,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MQDed35sNMzRfHW9_dm3-19" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;扫码支付&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=48;" vertex="1" parent="1">
-          <mxGeometry x="595" y="770" width="90" height="40" as="geometry" />
+          <mxGeometry x="595" y="860" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MQDed35sNMzRfHW9_dm3-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MQDed35sNMzRfHW9_dm3-22" target="MQDed35sNMzRfHW9_dm3-5">
           <mxGeometry relative="1" as="geometry" />
@@ -117,6 +117,9 @@
         </mxCell>
         <mxCell id="MQDed35sNMzRfHW9_dm3-42" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;查看余额明细&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="650" y="480" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MQDed35sNMzRfHW9_dm3-46" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;查看余额明细&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="490" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
