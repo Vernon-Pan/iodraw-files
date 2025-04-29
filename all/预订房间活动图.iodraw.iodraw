@@ -28,6 +28,9 @@
         <mxCell id="6MwM80KFG0n85IdUljnB-8" value="输入预定信息" style="rounded=1;whiteSpace=wrap;arcSize=34;" parent="1" vertex="1">
           <mxGeometry x="475" y="250" width="110" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="QEwhQ4fBG29uSAG0o5iq-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6MwM80KFG0n85IdUljnB-14" target="6MwM80KFG0n85IdUljnB-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6MwM80KFG0n85IdUljnB-14" value="提交" style="rounded=1;whiteSpace=wrap;arcSize=34;" parent="1" vertex="1">
           <mxGeometry x="475" y="320" width="110" height="40" as="geometry" />
         </mxCell>
@@ -95,9 +98,6 @@
         </mxCell>
         <mxCell id="6MwM80KFG0n85IdUljnB-53" value="余额不足" style="rounded=1;whiteSpace=wrap;arcSize=34;" parent="1" vertex="1">
           <mxGeometry x="390" y="840" width="110" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="6MwM80KFG0n85IdUljnB-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="6MwM80KFG0n85IdUljnB-57" target="6MwM80KFG0n85IdUljnB-20" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6MwM80KFG0n85IdUljnB-57" value="充值余额" style="rounded=1;whiteSpace=wrap;arcSize=34;" parent="1" vertex="1">
           <mxGeometry x="585" y="840" width="110" height="40" as="geometry" />
