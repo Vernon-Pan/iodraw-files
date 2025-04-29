@@ -37,7 +37,7 @@
           <mxGeometry x="130" y="370" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="U29VC_uSn6H73br2e2OY-12" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
-          <mxGeometry x="480" y="710" width="30" height="30" as="geometry" />
+          <mxGeometry x="400" y="827" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="U29VC_uSn6H73br2e2OY-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="U29VC_uSn6H73br2e2OY-17" target="U29VC_uSn6H73br2e2OY-11" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -61,14 +61,6 @@
         </mxCell>
         <mxCell id="U29VC_uSn6H73br2e2OY-17" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;存在入住信息&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=0;" parent="1" vertex="1">
           <mxGeometry x="365" y="350" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="U29VC_uSn6H73br2e2OY-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="U29VC_uSn6H73br2e2OY-19" target="U29VC_uSn6H73br2e2OY-12" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="610" y="420" />
-              <mxPoint x="610" y="420" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="U29VC_uSn6H73br2e2OY-19" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;提示未查询到入住信息&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" parent="1" vertex="1">
           <mxGeometry x="540" y="520" width="110" height="40" as="geometry" />
