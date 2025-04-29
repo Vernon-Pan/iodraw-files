@@ -253,8 +253,8 @@
             <mxPoint x="860" y="770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U_Tmp3cCwoYiaOWNXbAI-4" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;检查评价记录&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="750" y="790" width="120" height="30" as="geometry" />
+        <mxCell id="U_Tmp3cCwoYiaOWNXbAI-4" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;写入评价记录&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="740" y="740" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
