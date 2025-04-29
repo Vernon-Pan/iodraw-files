@@ -121,7 +121,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GqoWZjDL9azeMd5l6Li9-32" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;选择空余房型&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="170" y="540" width="90" height="40" as="geometry" />
+          <mxGeometry x="230" y="510" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GqoWZjDL9azeMd5l6Li9-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GqoWZjDL9azeMd5l6Li9-9" target="GqoWZjDL9azeMd5l6Li9-34">
           <mxGeometry relative="1" as="geometry">
