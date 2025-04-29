@@ -25,14 +25,8 @@
             <mxPoint x="680" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6MwM80KFG0n85IdUljnB-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="6MwM80KFG0n85IdUljnB-8" target="6MwM80KFG0n85IdUljnB-14" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="780" y="290" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="530" y="310" />
-              <mxPoint x="540" y="310" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="QEwhQ4fBG29uSAG0o5iq-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6MwM80KFG0n85IdUljnB-8" target="6MwM80KFG0n85IdUljnB-39">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6MwM80KFG0n85IdUljnB-8" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;输入预定信息&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" parent="1" vertex="1">
           <mxGeometry x="475" y="250" width="110" height="40" as="geometry" />
