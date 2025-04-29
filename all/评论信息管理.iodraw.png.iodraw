@@ -163,7 +163,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K8l_jo3gt4O-TKdRGiTM-54" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;模板管理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
-          <mxGeometry x="100" y="350" width="110" height="40" as="geometry" />
+          <mxGeometry x="170" y="350" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="K8l_jo3gt4O-TKdRGiTM-55" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;删除&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
           <mxGeometry x="-155" y="510" width="110" height="40" as="geometry" />
