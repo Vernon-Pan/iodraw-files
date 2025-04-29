@@ -14,9 +14,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RhUvB3Qg8VGnp79-uFM3-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;选择房间类型&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=48;" vertex="1" parent="1">
-          <mxGeometry x="500" y="240" width="90" height="40" as="geometry" />
+          <mxGeometry x="500" y="220" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RhUvB3Qg8VGnp79-uFM3-4" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;选择房间类型&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=48;" vertex="1" parent="1">
+        <mxCell id="RhUvB3Qg8VGnp79-uFM3-4" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;填写预订信息&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=48;" vertex="1" parent="1">
           <mxGeometry x="500" y="300" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
