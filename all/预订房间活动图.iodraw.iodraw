@@ -43,7 +43,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6MwM80KFG0n85IdUljnB-20" value="立即付款" style="rounded=1;whiteSpace=wrap;arcSize=34;" parent="1" vertex="1">
-          <mxGeometry x="695" y="780" width="110" height="40" as="geometry" />
+          <mxGeometry x="475" y="460" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6MwM80KFG0n85IdUljnB-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;" parent="1" source="6MwM80KFG0n85IdUljnB-22" target="6MwM80KFG0n85IdUljnB-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -83,9 +83,6 @@
         </mxCell>
         <mxCell id="6MwM80KFG0n85IdUljnB-37" value="订单已取消" style="rounded=1;whiteSpace=wrap;arcSize=34;" parent="1" vertex="1">
           <mxGeometry x="950" y="710" width="110" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="6MwM80KFG0n85IdUljnB-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;" parent="1" source="6MwM80KFG0n85IdUljnB-39" target="6MwM80KFG0n85IdUljnB-60" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6MwM80KFG0n85IdUljnB-39" value="订单状态更新为已取消" style="rounded=1;whiteSpace=wrap;arcSize=34;" parent="1" vertex="1">
           <mxGeometry x="940" y="610" width="110" height="40" as="geometry" />
