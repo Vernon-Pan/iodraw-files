@@ -76,7 +76,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8sem5zesWnYCJtxFnJYL-32" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;显示结果&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="476.5" y="590" width="90" height="40" as="geometry" />
+          <mxGeometry x="494" y="548" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8sem5zesWnYCJtxFnJYL-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8sem5zesWnYCJtxFnJYL-34" target="8sem5zesWnYCJtxFnJYL-30">
           <mxGeometry relative="1" as="geometry" />
