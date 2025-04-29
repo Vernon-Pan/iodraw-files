@@ -168,7 +168,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-280MmASgq-nDinSC5Cw-89" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;提交回复&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" parent="1" vertex="1">
-          <mxGeometry x="1325" y="190" width="110" height="40" as="geometry" />
+          <mxGeometry x="665" y="720" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-280MmASgq-nDinSC5Cw-92" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;更新回复状态&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" parent="1" vertex="1">
           <mxGeometry x="1315" y="440" width="110" height="40" as="geometry" />
