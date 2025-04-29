@@ -21,7 +21,7 @@
             <mxPoint x="50" y="90.00000000000023" as="sourcePoint" />
             <mxPoint x="220" y="350" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="45" y="335" />
+              <mxPoint x="90" y="335" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -30,6 +30,9 @@
         </mxCell>
         <mxCell id="-280MmASgq-nDinSC5Cw-5" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;初始化评论列表&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" parent="1" vertex="1">
           <mxGeometry x="350" y="250" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="K8l_jo3gt4O-TKdRGiTM-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-280MmASgq-nDinSC5Cw-9" target="K8l_jo3gt4O-TKdRGiTM-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-280MmASgq-nDinSC5Cw-9" value="&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;房型/评分等组合筛选&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" parent="1" vertex="1">
           <mxGeometry x="10" y="364" width="150" height="60" as="geometry" />
@@ -214,6 +217,9 @@
         </mxCell>
         <mxCell id="-280MmASgq-nDinSC5Cw-38" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;批量删除&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" parent="1" vertex="1">
           <mxGeometry x="430" y="540" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="K8l_jo3gt4O-TKdRGiTM-16" value="&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;房型/评分等组合筛选&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
+          <mxGeometry x="10" y="504" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
