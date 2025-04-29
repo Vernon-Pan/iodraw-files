@@ -166,15 +166,6 @@
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5NqmBi6R8H49br1U5m2I-369" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.482;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5NqmBi6R8H49br1U5m2I-323" target="5NqmBi6R8H49br1U5m2I-298">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="773" y="372" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="769" y="337" />
-              <mxPoint x="769" y="377" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="5NqmBi6R8H49br1U5m2I-323" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;已回复&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="797" y="312" width="80" height="50" as="geometry" />
         </mxCell>
