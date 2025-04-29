@@ -133,10 +133,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-280MmASgq-nDinSC5Cw-73" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;查看历史回复&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" parent="1" vertex="1">
-          <mxGeometry x="570" y="530" width="110" height="40" as="geometry" />
+          <mxGeometry x="545" y="480" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-280MmASgq-nDinSC5Cw-75" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
-          <mxGeometry x="1125" y="335" width="30" height="30" as="geometry" />
+          <mxGeometry x="870" y="1000" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-280MmASgq-nDinSC5Cw-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="-280MmASgq-nDinSC5Cw-77" target="-280MmASgq-nDinSC5Cw-79" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -209,6 +209,11 @@
         </mxCell>
         <mxCell id="K8l_jo3gt4O-TKdRGiTM-16" value="&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;显示筛选结果&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
           <mxGeometry x="25" y="500" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="K8l_jo3gt4O-TKdRGiTM-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K8l_jo3gt4O-TKdRGiTM-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="590" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="K8l_jo3gt4O-TKdRGiTM-19" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;已回复&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="655" y="430" width="80" height="50" as="geometry" />
