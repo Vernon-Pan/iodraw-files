@@ -67,7 +67,7 @@
         </mxCell>
         <mxCell id="6k_kvNG0_xFtDJQTgVQt-42" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;No&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6k_kvNG0_xFtDJQTgVQt-15">
           <mxGeometry x="-0.0773" y="-4" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-11" y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6k_kvNG0_xFtDJQTgVQt-16" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;预订房型可用&lt;/span&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
