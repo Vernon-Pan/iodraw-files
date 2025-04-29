@@ -39,6 +39,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="X53_yqlxta65cTbnA4u7-27" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Yes&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="X53_yqlxta65cTbnA4u7-12">
+          <mxGeometry x="-0.572" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="X53_yqlxta65cTbnA4u7-15" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;已评价&lt;/span&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="495" y="300" width="100" height="50" as="geometry" />
         </mxCell>
