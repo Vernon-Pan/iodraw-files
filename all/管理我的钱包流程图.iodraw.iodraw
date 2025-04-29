@@ -4,13 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="MQDed35sNMzRfHW9_dm3-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MQDed35sNMzRfHW9_dm3-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="545" y="220" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="MQDed35sNMzRfHW9_dm3-2" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;点击管理我的钱包&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=48;" vertex="1" parent="1">
-          <mxGeometry x="500" y="160" width="90" height="40" as="geometry" />
+          <mxGeometry x="500" y="230" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MQDed35sNMzRfHW9_dm3-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MQDed35sNMzRfHW9_dm3-5" target="MQDed35sNMzRfHW9_dm3-15">
           <mxGeometry relative="1" as="geometry" />
@@ -34,7 +29,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MQDed35sNMzRfHW9_dm3-11" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;已评价&lt;/span&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="MQDed35sNMzRfHW9_dm3-11" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;判断&lt;/span&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="495" y="300" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MQDed35sNMzRfHW9_dm3-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MQDed35sNMzRfHW9_dm3-13" target="MQDed35sNMzRfHW9_dm3-19">
