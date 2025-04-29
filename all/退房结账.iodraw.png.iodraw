@@ -114,7 +114,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="U29VC_uSn6H73br2e2OY-50" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;显示扣款结果&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" parent="1" vertex="1">
-          <mxGeometry x="460" y="719" width="110" height="40" as="geometry" />
+          <mxGeometry x="30" y="719" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="U29VC_uSn6H73br2e2OY-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="U29VC_uSn6H73br2e2OY-52" target="U29VC_uSn6H73br2e2OY-56" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -131,7 +131,7 @@
         <mxCell id="WaimwZlGlM86FqScRxOY-2" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;检查费用状态&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="145" y="430" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="WaimwZlGlM86FqScRxOY-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="WaimwZlGlM86FqScRxOY-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="U29VC_uSn6H73br2e2OY-45" target="U29VC_uSn6H73br2e2OY-36">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="230" y="640" as="sourcePoint" />
             <mxPoint x="280" y="590" as="targetPoint" />
