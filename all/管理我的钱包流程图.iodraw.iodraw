@@ -24,7 +24,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MQDed35sNMzRfHW9_dm3-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MQDed35sNMzRfHW9_dm3-11">
+        <mxCell id="MQDed35sNMzRfHW9_dm3-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MQDed35sNMzRfHW9_dm3-11" target="MQDed35sNMzRfHW9_dm3-22">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="380" y="280" as="targetPoint" />
           </mxGeometry>
