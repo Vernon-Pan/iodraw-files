@@ -238,8 +238,8 @@
             <mxPoint x="740" y="1120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U_Tmp3cCwoYiaOWNXbAI-1" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;请求&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="490" y="718" width="60" height="30" as="geometry" />
+        <mxCell id="U_Tmp3cCwoYiaOWNXbAI-1" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;发送写评价请求&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="450" y="718" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="U_Tmp3cCwoYiaOWNXbAI-2" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1" target="AY0sDBk7qBAhj82zwfmy-9">
           <mxGeometry width="160" relative="1" as="geometry">
