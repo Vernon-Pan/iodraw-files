@@ -81,11 +81,6 @@
             <mxPoint x="130" y="450" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U29VC_uSn6H73br2e2OY-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="U29VC_uSn6H73br2e2OY-52" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="160" y="835" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="U29VC_uSn6H73br2e2OY-23" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;无需扣除费用&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" parent="1" vertex="1">
           <mxGeometry x="230" y="510" width="110" height="40" as="geometry" />
         </mxCell>
@@ -114,16 +109,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="U29VC_uSn6H73br2e2OY-50" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;显示扣款结果&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" parent="1" vertex="1">
-          <mxGeometry x="30" y="719" width="110" height="40" as="geometry" />
+          <mxGeometry x="30" y="690" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="U29VC_uSn6H73br2e2OY-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="U29VC_uSn6H73br2e2OY-52" target="U29VC_uSn6H73br2e2OY-56" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="U29VC_uSn6H73br2e2OY-52" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;确认退房&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" parent="1" vertex="1">
-          <mxGeometry x="30" y="787" width="110" height="40" as="geometry" />
+          <mxGeometry x="30" y="750" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="U29VC_uSn6H73br2e2OY-56" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;修改该房间状态为不可用&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" parent="1" vertex="1">
-          <mxGeometry x="610" y="815" width="110" height="40" as="geometry" />
+          <mxGeometry x="60" y="880" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WaimwZlGlM86FqScRxOY-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WaimwZlGlM86FqScRxOY-2" target="U29VC_uSn6H73br2e2OY-23">
           <mxGeometry relative="1" as="geometry" />
