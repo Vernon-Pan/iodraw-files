@@ -35,7 +35,7 @@
           <mxGeometry x="350" y="250" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="H2jvQE9wgcPiWXuw-Nxy-30" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;充值&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" parent="1" vertex="1">
-          <mxGeometry x="190" y="394" width="110" height="40" as="geometry" />
+          <mxGeometry x="190" y="380" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="H2jvQE9wgcPiWXuw-Nxy-32" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;查看余额明细&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" parent="1" vertex="1">
           <mxGeometry x="510" y="460" width="110" height="40" as="geometry" />
@@ -70,7 +70,7 @@
             <mxPoint x="560" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mU8VeqmWWSlU6xv56bTL-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="mU8VeqmWWSlU6xv56bTL-6">
+        <mxCell id="mU8VeqmWWSlU6xv56bTL-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mU8VeqmWWSlU6xv56bTL-6" target="H2jvQE9wgcPiWXuw-Nxy-30">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="350" y="490" as="sourcePoint" />
             <mxPoint x="400" y="440" as="targetPoint" />
