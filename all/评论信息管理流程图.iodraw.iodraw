@@ -270,6 +270,9 @@
         <mxCell id="5NqmBi6R8H49br1U5m2I-352" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;输入内容&lt;/span&gt;" style="shape=parallelogram;html=1;strokeWidth=1;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=0;size=0.23;" vertex="1" parent="1">
           <mxGeometry x="960" y="516.04" width="125" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="5NqmBi6R8H49br1U5m2I-353" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;点击评论信息管理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
+          <mxGeometry x="502" y="82" width="110" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
