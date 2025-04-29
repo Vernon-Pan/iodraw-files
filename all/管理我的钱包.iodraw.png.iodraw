@@ -61,7 +61,7 @@
         <mxCell id="mU8VeqmWWSlU6xv56bTL-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="H2jvQE9wgcPiWXuw-Nxy-32" target="H2jvQE9wgcPiWXuw-Nxy-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mU8VeqmWWSlU6xv56bTL-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="mU8VeqmWWSlU6xv56bTL-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="350" y="370" width="110" height="10" as="geometry" />
         </mxCell>
       </root>
