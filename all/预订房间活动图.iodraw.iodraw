@@ -38,7 +38,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6MwM80KFG0n85IdUljnB-16" value="我的订单" style="rounded=1;whiteSpace=wrap;arcSize=34;" parent="1" vertex="1">
-          <mxGeometry x="865" y="560" width="110" height="40" as="geometry" />
+          <mxGeometry x="475" y="380" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6MwM80KFG0n85IdUljnB-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;" parent="1" source="6MwM80KFG0n85IdUljnB-18" target="6MwM80KFG0n85IdUljnB-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -131,7 +131,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6MwM80KFG0n85IdUljnB-61" value="" style="ellipse;shape=startState;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="520" y="40" width="30" height="30" as="geometry" />
+          <mxGeometry x="515" y="60" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QEwhQ4fBG29uSAG0o5iq-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="6MwM80KFG0n85IdUljnB-14" target="6MwM80KFG0n85IdUljnB-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
