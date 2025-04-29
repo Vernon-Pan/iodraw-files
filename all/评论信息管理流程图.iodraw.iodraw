@@ -62,10 +62,14 @@
           <mxGeometry x="397" y="589.9999999999999" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5NqmBi6R8H49br1U5m2I-372" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5NqmBi6R8H49br1U5m2I-295" target="5NqmBi6R8H49br1U5m2I-353">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="991" y="700" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="5NqmBi6R8H49br1U5m2I-295" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;查看历史回复&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="935.96" y="377" width="110" height="40" as="geometry" />
+          <mxGeometry x="877" y="374" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5NqmBi6R8H49br1U5m2I-297" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5NqmBi6R8H49br1U5m2I-298" target="5NqmBi6R8H49br1U5m2I-325">
           <mxGeometry relative="1" as="geometry" />
@@ -152,7 +156,7 @@
         <mxCell id="5NqmBi6R8H49br1U5m2I-319" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5NqmBi6R8H49br1U5m2I-323" target="5NqmBi6R8H49br1U5m2I-295">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="974" y="337" />
+              <mxPoint x="935" y="337" />
             </Array>
           </mxGeometry>
         </mxCell>
